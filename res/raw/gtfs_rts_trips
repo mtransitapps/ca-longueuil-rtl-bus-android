@@ -56,8 +56,8 @@
 3700,0,'Centre-Ville / Simard',37
 3801,0,'Centre-Ville',38
 3800,0,'Chevrier',38
+3900,0,'DIX30',39
 3901,0,'Panama',39
-3900,0,'Quartier Dix30',39
 4101,0,'Panama',41
 4201,0,'Centre-Ville / Panama',42
 4200,0,'Parc Cité',42
@@ -94,7 +94,7 @@
 7500,0,'Longueuil',75
 7600,0,'B Vieux-Longueuil',76
 7601,0,'Longueuil',76
-7700,0,'Cégep Édouard-Montpetit',77
+7700,0,'CÉGEP Édouard-Montpetit',77
 7701,0,'Parc Industriel Brossard',77
 7800,0,'Longueuil',78
 7801,0,'Longueuil',78
@@ -128,8 +128,8 @@
 10000,0,'Stationnement Chevrier',100
 10600,0,'B Brossard / Longueuil',106
 10601,0,'Longueuil',106
-11500,0,'Avenue Victoria',115
 11501,0,'Centre-Ville',115
+11500,0,'Victoria',115
 12001,0,'Longueuil',120
 12000,0,'Longueuil',120
 12301,0,'Longueuil',123
