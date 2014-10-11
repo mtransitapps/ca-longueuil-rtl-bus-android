@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer name="gtfs_rts_db_version">20140826</integer>
+    <integer name="gtfs_rts_db_version">20140827</integer>
     <string name="gtfs_rts_label">RTL Bus</string>
     <string name="gtfs_rts_authority">org.mtransit.android.ca_longueuil_rtl_bus.gtfs</string>
     <string name="gtfs_status_for_poi_authority">org.mtransit.android.ca_longueuil_rtl_bus.gtfs</string>
