@@ -2,6 +2,7 @@
 <resources>
     <integer name="gtfs_rts_db_version">20140827</integer>
     <string name="gtfs_rts_label">RTL Bus</string>
+    <string name="gtfs_rts_short_name">RTL</string>
     <string name="gtfs_rts_authority">org.mtransit.android.ca_longueuil_rtl_bus.gtfs</string>
     <string name="gtfs_status_for_poi_authority">org.mtransit.android.ca_longueuil_rtl_bus.gtfs</string>
     <integer name="gtfs_rts_agency_type">3</integer>
