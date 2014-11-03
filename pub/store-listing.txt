@@ -1,0 +1,37 @@
+Title: Longueuil RTL Bus for MT
+----------
+Short description: Longueuil RTL bus information for MT.
+----------
+Full description:
+BETA: TEST IN PROGRESS
+To leave the test: http://goo.gl/M02hOM
+
+This application adds Longueuil RTL bus information in MT.
+
+Once this application is installed, the MT app will display bus information (schedule...).
+
+This application only has a temporary icon and no screen: download the MT app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5m
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by the Réseau de Transport de Longueuil
+http://www.rtl-longueuil.qc.ca/en-CA/open-data/
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-longueuil-rtl-bus-android
+
+This app is not related with the Réseau de Transport de Longueuil.
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-longueuil-rtl-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone: 
+----------
+Privacy Policy:
