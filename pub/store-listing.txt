@@ -1,16 +1,16 @@
-Title: Longueuil RTL Bus for MT
+Title: Longueuil RTL Bus (MonTransit)
 ----------
-Short description: Longueuil RTL bus information for MT.
+Short description: Longueuil RTL bus information for MonTransit BETA.
 ----------
 Full description:
 BETA: TEST IN PROGRESS
 To leave the test: http://goo.gl/M02hOM
 
-This application adds Longueuil RTL bus information in MT.
+This application adds Longueuil RTL bus information to MonTransit BETA.
 
-Once this application is installed, the MT app will display bus information (schedule...).
+Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 
-This application only has a temporary icon and no screen: download the MT app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5m
+This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5m
 
 You can install this application on the SD card but it is not recommended.
 
