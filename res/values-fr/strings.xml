@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MT RTL Bus (Longueuil)</string>
-    <string name="app_desc">Données des bus de la RTL à Longueuil pour MT.</string>
+    <string name="app_name">MonTransit RTL Bus (Longueuil)</string>
+    <string name="app_desc">Données des bus de la RTL à Longueuil pour MonTransit.</string>
 </resources>
