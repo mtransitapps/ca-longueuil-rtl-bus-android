@@ -2,11 +2,17 @@ Title: Longueuil RTL Bus (MonTransit)
 ----------
 Short description: Longueuil RTL bus information for MonTransit BETA.
 ----------
+What's new in this version?:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Schedule from January 5, 2015 to April 5, 2015.
+----------
 Full description:
-BETA: TEST IN PROGRESS
-To leave the test: http://goo.gl/M02hOM
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 This application adds Longueuil RTL bus information to MonTransit BETA.
+
+RTL serves Longueuil, Saint-Lambert, Boucherville, Brossard and Saint-Bruno-de-Montarville.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 

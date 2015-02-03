@@ -2,11 +2,17 @@ Title: Bus RTL Longueuil (MonTransit)
 ----------
 Short description: Informations des bus RTL de Longueuil pour MonTransit BETA.
 ----------
+What's new in this version?:
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
+
+Horaires du 5 Janvier 2014 au 5 Avril 2015.
+----------
 Full description:
-BETA : TEST EN COURS
-Pour quitter le test : http://goo.gl/M02hOM
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Cette application ajoute les informations des bus RTL de Longueuil à MonTransit BETA.
+
+La RTL dessert Longueuil, Saint-Lambert, Boucherville, Brossard et Saint-Bruno-de-Montarville.
 
 Une fois cette application installée, l'application MonTransit BETA affichera les informations des bus (horaires ...).
 
