@@ -35,13 +35,13 @@
 2300,0,'Chemin Tremblay',23
 2301,0,'Longueuil',23
 2501,0,'Longueuil',25
-2500,0,'Longueuil / Parcs Industriels',25
+2500,0,'Parcs Industriels',25
 2800,0,'Aéroport St-Hubert',28
 2801,0,'Longueuil',28
 2900,0,'Collectivité Nouvelle',29
 2901,0,'Longueuil',29
 3001,0,'Centre-Ville',30
-3000,0,'Centre-Ville / P-V Brossard',30
+3000,0,'P-V Brossard',30
 3101,0,'Centre-Ville',31
 3100,0,'St-Laurent',31
 3201,0,'Centre-Ville / Panama',32
@@ -53,7 +53,7 @@
 3501,0,'Centre-Ville / Panama',35
 3500,0,'L Brossard',35
 3701,0,'Centre-Ville',37
-3700,0,'Centre-Ville / Simard',37
+3700,0,'Simard',37
 3801,0,'Centre-Ville',38
 3800,0,'Chevrier',38
 3900,0,'DIX30',39
@@ -79,7 +79,7 @@
 5501,0,'Centre-Ville',55
 5500,0,'Victoria',55
 5901,0,'Centre-Ville',59
-5900,0,'Centre-Ville / Gareau',59
+5900,0,'Gareau',59
 6001,0,'Centre-Ville / Panama',60
 6000,0,'Claude-Jutra',60
 6100,0,'Montarville',61
@@ -103,7 +103,7 @@
 8100,0,'Fort-St-Louis',81
 8101,0,'Longueuil',81
 8201,0,'Longueuil',82
-8200,0,'Longueuil / Marie-Victorin',82
+8200,0,'Marie-Victorin',82
 8301,0,'Longueuil',83
 8300,0,'Montarville',83
 8401,0,'Longueuil',84
@@ -126,7 +126,7 @@
 9900,0,'St-Bruno-De-Montarville',99
 10001,0,'Ile-Des-Soeurs',100
 10000,0,'Stationnement Chevrier',100
-10600,0,'B Brossard / Longueuil',106
+10600,0,'B Brossard',106
 10601,0,'Longueuil',106
 11501,0,'Centre-Ville',115
 11500,0,'Victoria',115
@@ -142,8 +142,8 @@
 13200,0,'Parc Cité',132
 13501,0,'Centre-Ville',135
 13500,0,'L Brossard',135
-14201,0,'Centre-Ville / Cousineau',142
-14200,0,'Cousineau / Pacific',142
+14201,0,'Centre-Ville',142
+14200,0,'Pacific',142
 14401,0,'Centre-Ville',144
 14400,0,'M-N-O Brossard',144
 15001,0,'Centre-Ville',150
@@ -173,7 +173,7 @@
 82100,0,'Armand-Frappier / Grande Allée',821
 82101,0,'Grande Allée',821
 82200,0,'Gaétan-Boucher',822
-82201,0,'Gaétan-Boucher / Parc Industriel G-Leclerc',822
+82201,0,'Parc Industriel G-Leclerc',822
 82300,0,'Béliveau',823
 82301,0,'Gare St-Hubert',823
 84800,0,'Marie-Victorin',848
