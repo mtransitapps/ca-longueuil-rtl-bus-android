@@ -1,16 +1,21 @@
-Title: Bus RTL Longueuil (MonTransit)
+Title: Bus RTL Longueuil - MonTransit
 ----------
-Short description: Informations des bus RTL de Longueuil pour MonTransit BETA.
+Short description:
+Bus RTL de Longueuil pour MonTransit BETA
+Horaires. Tweets de @RTL_info
 ----------
 What's new in this version?:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Horaires du 5 Janvier 2014 au 5 Avril 2015.
+Tweets de @RTL_info et @RTL_Longueuil.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Cette application ajoute les informations des bus RTL de Longueuil à MonTransit BETA.
+
+Cette application contient les horaires et les dernières nouvelles de @RTL_info et @RTL_Longueuil sur Twitter.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 La RTL dessert Longueuil, Saint-Lambert, Boucherville, Brossard et Saint-Bruno-de-Montarville.
 
@@ -27,3 +32,6 @@ Cette application est gratuite et open-source :
 https://github.com/mtransitapps/ca-longueuil-rtl-bus-android
 
 Cette application n'est pas associée au Réseau de Transport de Longueuil.
+
+Autorisations :
+- Autres: requis pour lire les nouvelles (Twitter)
