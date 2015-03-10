@@ -11,15 +11,15 @@ Tweets from @RTL_info and @RTL_Longueuil.
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This application adds Longueuil RTL bus information to MonTransit BETA.
+This application adds Longueuil RTL buses information to MonTransit BETA.
 
-This app contains the bus schedule and the latest news from @RTL_info and @RTL_Longueuil on Twitter.
+This app contains the buses schedule and the latest news from @RTL_info and @RTL_Longueuil on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 RTL serves Longueuil, Saint-Lambert, Boucherville, Brossard and Saint-Bruno-de-Montarville.
 
-Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
+Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
 
 This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
