@@ -2,10 +2,11 @@ Title: Bus RTL Longueuil - MonTransit
 ----------
 Short description:
 Bus RTL de Longueuil pour MonTransit BETA
-Horaires. Tweets de @RTL_info
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 5 Janvier 2014 au 5 Avril 2015.
+Nouvelles de www.rtl-longueuil.qc.ca.
 Tweets de @RTL_info et @RTL_Longueuil.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
@@ -13,7 +14,7 @@ BETA : Merci de votre patience pendant que les dernières fonctionnalités sont 
 Full description:
 Cette application ajoute les informations des autobus RTL de Longueuil à MonTransit BETA.
 
-Cette application contient les horaires et les dernières nouvelles de @RTL_info et @RTL_Longueuil sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de www.rtl-longueuil.qc.ca et @RTL_info et @RTL_Longueuil sur Twitter.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
@@ -34,4 +35,4 @@ https://github.com/mtransitapps/ca-longueuil-rtl-bus-android
 Cette application n'est pas associée au Réseau de Transport de Longueuil.
 
 Autorisations :
-- Autres: requis pour lire les nouvelles (Twitter)
+- Autres: requis pour lire les nouvelles de www.rtl-longueuil.qc.ca et Twitter
