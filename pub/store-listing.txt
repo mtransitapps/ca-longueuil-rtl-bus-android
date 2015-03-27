@@ -14,7 +14,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This application adds Longueuil RTL buses information to MonTransit BETA.
 
-This app contains the buses schedule and the latest news from www.rtl-longueuil.qc.ca and @RTL_info and @RTL_Longueuil on Twitter.
+This app contains the buses schedule and the latest news from www.rtl-longueuil.qc.ca, YouTube and @RTL_info and @RTL_Longueuil on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -35,7 +35,7 @@ https://github.com/mtransitapps/ca-longueuil-rtl-bus-android
 This app is not related with the Réseau de Transport de Longueuil.
 
 Permissions:
-- Other: required to read news from www.rtl-longueuil.qc.ca and Twitter
+- Other: required to read news from www.rtl-longueuil.qc.ca, YouTube and Twitter
 ----------
 Application type: Applications
 ----------
