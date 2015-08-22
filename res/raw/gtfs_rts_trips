@@ -95,7 +95,7 @@
 7600,0,'B Vieux-Longueuil',76
 7601,0,'Longueuil',76
 7700,0,'CÉGEP Édouard-Montpetit',77
-7701,0,'Parc Industriel Brossard',77
+7701,0,'Parc Ind. Brossard',77
 7800,0,'Adoncour-Du Colisée',78
 7801,0,'Longueuil',78
 8001,0,'Longueuil',80
@@ -116,6 +116,8 @@
 8700,0,'Fort-St-Louis',87
 8801,0,'Longueuil',88
 8800,0,'Mountainview',88
+9001,0,'Centre-Ville',90
+9000,0,'Stat Chevrier',90
 9100,0,'Boucherville',91
 9101,0,'Gare St-Bruno',91
 9201,0,'Agence Spatiale',92
@@ -124,8 +126,8 @@
 9800,0,'Parent',98
 9901,0,'Longueuil',99
 9900,0,'St-Bruno-De-Montarville',99
-10001,0,'Ile-Des-Soeurs / Stationnement Chevrier',100
-10000,0,'Stationnement Chevrier',100
+10001,0,'Ile-Des-Soeurs / Stat Chevrier',100
+10000,0,'Stat Chevrier',100
 10600,0,'B Brossard',106
 10601,0,'Longueuil',106
 11501,0,'Centre-Ville',115
@@ -191,4 +193,4 @@
 89400,0,'St-Basile-Le-Grand',894
 89401,0,'St-Bruno',894
 89701,0,'Gare St-Basile-Le-Grand',897
-89700,0,'Grand Boulevard',897
+89700,0,'Grand Boul.',897
