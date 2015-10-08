@@ -35,7 +35,7 @@
 2300,0,'Chemin Tremblay',23
 2301,0,'Longueuil',23
 2501,0,'Longueuil',25
-2500,0,'Parcs Industriels',25
+2500,0,'Parcs Ind.',25
 2800,0,'Aéroport St-Hubert',28
 2801,0,'Longueuil',28
 2900,0,'Collectivité Nouvelle',29
@@ -126,7 +126,7 @@
 9800,0,'Parent',98
 9901,0,'Longueuil',99
 9900,0,'St-Bruno-De-Montarville',99
-10001,0,'Ile-Des-Soeurs / Stat Chevrier',100
+10001,0,'Ile-Des-Soeurs',100
 10000,0,'Stat Chevrier',100
 10600,0,'B Brossard',106
 10601,0,'Longueuil',106
@@ -135,7 +135,7 @@
 12000,0,'Fernand-Lafontaine',120
 12001,0,'Longueuil',120
 12301,0,'Longueuil',123
-12300,0,'Parcs Industriels',123
+12300,0,'Parcs Ind.',123
 12501,0,'Longueuil',125
 12500,0,'Réseau Transport Longueuil',125
 12800,0,'Agence Spatiale',128
@@ -172,10 +172,10 @@
 81900,0,'Lac',819
 82001,0,'Cousineau',820
 82000,0,'Fredière',820
-82100,0,'Armand-Frappier / Grande Allée',821
+82100,0,'Armand-Frappier',821
 82101,0,'Grande Allée',821
 82200,0,'Gaétan-Boucher',822
-82201,0,'Parc Industriel G-Leclerc',822
+82201,0,'Parc Ind. G-Leclerc',822
 82300,0,'Béliveau',823
 82301,0,'Gare St-Hubert',823
 84800,0,'Marie-Victorin',848

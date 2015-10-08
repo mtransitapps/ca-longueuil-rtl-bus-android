@@ -8,6 +8,6 @@
 'F2',6001,62040,0,'Panama',10200,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama'
 'SA',6001,62040,0,'Panama',10200,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama'
 'SE',6001,65020,0,'Centre-Ville',6900,0,'Centre-Ville',3100,0,'Centre-Ville',7000,0,'Centre-Ville',3100,0,'Centre-Ville',6720,0,'Panama',3600,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10300,0,'Panama',7000,0,'Panama',2600,0,'Panama',7000,0,'Panama',3000,0,'Panama',10200,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama',10000,0,'Panama'
-'SE',10600,165220,,'',7000,,'',3000,,'',6600,,'',3200,,''
+'SE',10600,165220,0,'Longueuil',7000,0,'Longueuil',3000,0,'Longueuil',6600,0,'Longueuil',3200,0,'Longueuil'
 'SE',10601,61140,,'',3000,,'',6880,,'',2980,,'',7000,,'',2900,,''
 'SE',14201,60520,,'',2000,,'',2000,,'',5500,,'',1000,,'',1300,,'',800,,'',1200,,'',1300,,'',4800,,'',800,,'',1200,,'',1000,,'',1100,,''
