@@ -10,8 +10,8 @@
 500,0,'M St-Hubert',5
 601,0,'Longueuil',6
 600,0,'Panama',6
-800,0,'Claude-Jutra',8
 801,0,'Longueuil',8
+800,0,'Étang',8
 901,0,'Longueuil',9
 900,0,'M St-Hubert',9
 1000,0,'B Vieux-Longueuil',10
@@ -81,7 +81,7 @@
 5901,0,'Centre-Ville',59
 5900,0,'Gareau',59
 6001,0,'Centre-Ville',60
-6000,0,'Claude-Jutra',60
+6000,0,'Étang',60
 6100,0,'Montarville',61
 6101,0,'Métro Radisson',61
 7100,0,'Curé-Poirier',71
