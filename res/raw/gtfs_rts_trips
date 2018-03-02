@@ -11,7 +11,7 @@
 601,0,'Longueuil',6
 600,0,'Panama',6
 801,0,'Longueuil',8
-800,0,'Étang',8
+800,0,'Promenades St-Bruno',8
 901,0,'Longueuil',9
 900,0,'M St-Hubert',9
 1000,0,'B Vieux-Longueuil',10
@@ -32,6 +32,8 @@
 2001,0,'Longueuil',20
 2100,0,'Grande Allée',21
 2101,0,'Longueuil',21
+2201,0,'Gare St-Hubert',22
+2200,0,'Jacques-Cartier',22
 2300,0,'Chemin Tremblay',23
 2301,0,'Longueuil',23
 2501,0,'Longueuil',25
@@ -81,7 +83,7 @@
 5901,0,'Centre-Ville',59
 5900,0,'Gareau',59
 6001,0,'Centre-Ville',60
-6000,0,'Étang',60
+6000,0,'Promenades St-Bruno',60
 6100,0,'Montarville',61
 6101,0,'Métro Radisson',61
 7100,0,'Curé-Poirier',71
@@ -148,6 +150,8 @@
 14400,0,'M-N-O Brossard',144
 15001,0,'Centre-Ville',150
 15000,0,'Maricourt',150
+16101,0,'Longueuil',161
+16100,0,'Stat Mortagne',161
 17001,0,'Jacques-Cartier',170
 17000,0,'Métro Papineau',170
 17700,0,'Panama',177
@@ -183,7 +187,7 @@
 88900,0,'Eiffel',889
 88901,0,'Marie-Victorin',889
 89000,0,'Ateliers',890
-89001,0,'Découvreurs',890
+89001,0,'Maison Source Bleue',890
 89200,0,'Ampère',892
 89201,0,'Mortagne',892
 89300,0,'Chemin Touraine',893
