@@ -9,4 +9,6 @@
     <string name="gtfs_rts_area_min_lng">-73.5668389536944</string>
     <string name="gtfs_rts_area_max_lng">-73.3023082633461</string>
     <string name="gtfs_rts_color">A32638</string>
+    <integer name="gtfs_rts_first_departure_in_sec">1529917140</integer>
+    <integer name="gtfs_rts_last_departure_in_sec">1534539480</integer>
 </resources>
