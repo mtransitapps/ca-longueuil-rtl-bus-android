@@ -5,7 +5,7 @@ Autobus RTL de Longueuil pour MonTransit
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 20 août 2018 au 4 novembre 2018.
+Horaires du 25 juin 2018 au 4 novembre 2018.
 Nouvelles de www.rtl-longueuil.qc.ca.
 Tweets de @RTL_info et @RTL_Longueuil.
 ----------
