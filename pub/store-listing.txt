@@ -5,7 +5,7 @@ Longueuil RTL buses for MonTransit
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from November 5, 2018 to March 31, 2019.
+Schedule from January 7, 2019 to March 31, 2019.
 News from www.rtl-longueuil.qc.ca.
 Tweets from @RTL_info and @RTL_Longueuil.
 ----------
