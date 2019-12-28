@@ -6,7 +6,7 @@
 300,0,'Montgomery',3
 401,0,'Longueuil',4
 400,0,'Westley',4
-501,0,'Centre-Ville',5
+501,0,'Ctr-Ville',5
 500,0,'M St-Hubert',5
 601,0,'Longueuil',6
 600,0,'Panama',6
@@ -20,7 +20,7 @@
 1300,0,'Panama',13
 1401,0,'Longueuil',14
 1400,0,'Rome',14
-1501,0,'Centre-Ville',15
+1501,0,'Ctr-Ville',15
 1500,0,'Longueuil',15
 1600,0,'King-George',16
 1601,0,'Longueuil',16
@@ -42,47 +42,47 @@
 2801,0,'Longueuil',28
 2900,0,'Collectivité Nouvelle',29
 2901,0,'Longueuil',29
-3001,0,'Centre-Ville',30
+3001,0,'Ctr-Ville',30
 3000,0,'P-V Brossard',30
-3101,0,'Centre-Ville',31
+3101,0,'Ctr-Ville',31
 3100,0,'St-Laurent',31
-3201,0,'Centre-Ville',32
+3201,0,'Ctr-Ville',32
 3200,0,'Mountainview',32
-3301,0,'Centre-Ville',33
+3301,0,'Ctr-Ville',33
 3300,0,'M-N-O Brossard',33
 3400,0,'Bellevue',34
-3401,0,'Centre-Ville',34
-3501,0,'Centre-Ville',35
+3401,0,'Ctr-Ville',34
+3501,0,'Ctr-Ville',35
 3500,0,'L Brossard',35
-3701,0,'Centre-Ville',37
+3701,0,'Ctr-Ville',37
 3700,0,'Simard',37
-3801,0,'Centre-Ville',38
 3800,0,'Chevrier',38
+3801,0,'Ctr-Ville',38
 3900,0,'DIX30',39
 3901,0,'Panama',39
 4101,0,'Panama',41
-4201,0,'Centre-Ville',42
+4201,0,'Ctr-Ville',42
 4200,0,'Parc Cité',42
 4301,0,'Panama',43
-4401,0,'Centre-Ville',44
+4401,0,'Ctr-Ville',44
 4400,0,'M-N-O Brossard',44
-4501,0,'Centre-Ville',45
+4501,0,'Ctr-Ville',45
 4500,0,'Panama',45
-4601,0,'Centre-Ville',46
+4601,0,'Ctr-Ville',46
 4600,0,'R Brossard',46
-4701,0,'Centre-Ville',47
+4701,0,'Ctr-Ville',47
 4700,0,'R Brossard',47
-4901,0,'Centre-Ville',49
+4901,0,'Ctr-Ville',49
 4900,0,'R Brossard',49
-5001,0,'Centre-Ville',50
+5001,0,'Ctr-Ville',50
 5000,0,'Prince-Charles',50
 5401,0,'Longueuil',54
 5400,0,'Panama',54
-5501,0,'Centre-Ville',55
+5501,0,'Ctr-Ville',55
 5500,0,'Victoria',55
-5901,0,'Centre-Ville',59
+5901,0,'Ctr-Ville',59
 5900,0,'Gareau',59
-6001,0,'Centre-Ville',60
+6001,0,'Ctr-Ville',60
 6000,0,'Promenades St-Bruno',60
 6100,0,'Montarville',61
 6101,0,'Métro Radisson',61
@@ -112,13 +112,13 @@
 8400,0,'Montarville',84
 8500,0,'Gascogne',85
 8501,0,'Longueuil',85
-8601,0,'Centre-Ville',86
+8601,0,'Ctr-Ville',86
 8600,0,'Montarville',86
-8701,0,'Centre-Ville',87
+8701,0,'Ctr-Ville',87
 8700,0,'Fort-St-Louis',87
 8801,0,'Longueuil',88
 8800,0,'Mountainview',88
-9001,0,'Centre-Ville',90
+9001,0,'Ctr-Ville',90
 9000,0,'Stat Chevrier',90
 9100,0,'Boucherville',91
 9101,0,'Gare St-Bruno',91
@@ -130,7 +130,7 @@
 9900,0,'St-Bruno-De-Montarville',99
 10600,0,'B Brossard',106
 10601,0,'Longueuil',106
-11501,0,'Centre-Ville',115
+11501,0,'Ctr-Ville',115
 11500,0,'Victoria',115
 12000,0,'Fernand-Lafontaine',120
 12001,0,'Longueuil',120
@@ -140,15 +140,15 @@
 12500,0,'Réseau Transport Longueuil',125
 12800,0,'Agence Spatiale',128
 12801,0,'Longueuil',128
-13201,0,'Centre-Ville',132
+13201,0,'Ctr-Ville',132
 13200,0,'Parc Cité',132
-13501,0,'Centre-Ville',135
+13501,0,'Ctr-Ville',135
 13500,0,'L Brossard',135
-14201,0,'Centre-Ville',142
+14201,0,'Ctr-Ville',142
 14200,0,'Pacific',142
-14401,0,'Centre-Ville',144
+14401,0,'Ctr-Ville',144
 14400,0,'M-N-O Brossard',144
-15001,0,'Centre-Ville',150
+15001,0,'Ctr-Ville',150
 15000,0,'Maricourt',150
 16101,0,'Longueuil',161
 16100,0,'Stat Mortagne',161
