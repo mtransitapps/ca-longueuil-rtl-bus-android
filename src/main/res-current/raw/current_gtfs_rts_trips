@@ -30,6 +30,8 @@
 2200,0,'Jacques-Cartier',22
 2300,0,'Chemin Tremblay',23
 2301,0,'Longueuil',23
+2501,0,'Longueuil',25
+2500,0,'Parcs Ind.',25
 2800,0,'Aéroport St-Hubert',28
 2801,0,'Longueuil',28
 2900,0,'Collectivité Nouvelle',29
@@ -84,6 +86,8 @@
 9101,0,'Gare St-Bruno',91
 9201,0,'Agence Spatiale',92
 9200,0,'Clairevue Ouest',92
+9801,0,'Longueuil',98
+9800,0,'Parent',98
 9901,0,'Longueuil',99
 9900,0,'St-Bruno-De-Montarville',99
 12301,0,'Longueuil',123
@@ -92,6 +96,8 @@
 13200,0,'Parc Cité',132
 16101,0,'Longueuil',161
 16100,0,'Montarville',161
+17000,0,'Jacques-Cartier',170
+17001,0,'Métro Papineau',170
 17700,0,'Panama',177
 17701,0,'Ste-Foy',177
 82001,0,'Cousineau',820
