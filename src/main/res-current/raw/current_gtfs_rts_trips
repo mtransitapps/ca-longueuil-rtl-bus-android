@@ -14,6 +14,8 @@
 1001,0,'Longueuil',10
 1301,0,'Longueuil',13
 1300,0,'Panama',13
+1401,0,'Longueuil',14
+1400,0,'Rome',14
 1500,0,'Longueuil',15
 1501,0,'Panama',15
 1600,0,'King-George',16
@@ -70,6 +72,8 @@
 7401,0,'Longueuil',74
 7501,0,'Longueuil',75
 7500,0,'McGill',75
+7600,0,'B Vieux-Longueuil',76
+7601,0,'Longueuil',76
 7701,0,'CÉGEP Édouard-Montpetit',77
 7700,0,'Parc Ind. Brossard',77
 8001,0,'Longueuil',80
@@ -78,6 +82,8 @@
 8101,0,'Longueuil',81
 8301,0,'Longueuil',83
 8300,0,'Montarville',83
+8401,0,'Longueuil',84
+8400,0,'Montarville',84
 8801,0,'Longueuil',88
 8800,0,'Mountainview',88
 9001,0,'Ctr-Ville',90
@@ -100,8 +106,14 @@
 17001,0,'Métro Papineau',170
 17700,0,'Panama',177
 17701,0,'Ste-Foy',177
+41000,0,'B Vieux-Longueuil',410
+41001,0,'Longueuil',410
+41701,0,'Longueuil',417
+41700,0,'M Vieux-Longueuil',417
 82001,0,'Cousineau',820
 82000,0,'Fredière',820
+82100,0,'Armand-Frappier',821
+82101,0,'Grande Allée',821
 82200,0,'Gaétan-Boucher',822
 82201,0,'Parc Ind. G-Leclerc',822
 84800,0,'Marie-Victorin',848
@@ -110,3 +122,7 @@
 87700,0,'Place Jade',877
 88900,0,'Eiffel',889
 88901,0,'Marie-Victorin',889
+89200,0,'Ampère',892
+89201,0,'Mortagne',892
+89300,0,'Chemin Touraine',893
+89301,0,'Mortagne',893
