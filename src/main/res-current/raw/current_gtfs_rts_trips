@@ -16,8 +16,8 @@
 1300,0,'Panama',13
 1401,0,'Longueuil',14
 1400,0,'Rome',14
+1501,0,'Ctr-Ville',15
 1500,0,'Longueuil',15
-1501,0,'Panama',15
 1600,0,'King-George',16
 1601,0,'Longueuil',16
 1701,0,'Longueuil',17
@@ -40,6 +40,8 @@
 2901,0,'Longueuil',29
 3200,0,'Mountainview',32
 3201,0,'Panama',32
+3400,0,'Bellevue',34
+3401,0,'Ctr-Ville',34
 3500,0,'L Brossard',35
 3501,0,'Panama',35
 3900,0,'DIX30',39
@@ -60,6 +62,10 @@
 5000,0,'Prince-Charles',50
 5401,0,'Longueuil',54
 5400,0,'Panama',54
+5501,0,'Ctr-Ville',55
+5500,0,'Victoria',55
+5900,0,'Gareau',59
+5901,0,'Panama',59
 6001,0,'Ctr-Ville',60
 6000,0,'Promenades St-Bruno',60
 6100,0,'Montarville',61
@@ -76,6 +82,8 @@
 7601,0,'Longueuil',76
 7701,0,'CÉGEP Édouard-Montpetit',77
 7700,0,'Parc Ind. Brossard',77
+7800,0,'Adoncour-Du Colisée',78
+7801,0,'Longueuil',78
 8001,0,'Longueuil',80
 8000,0,'Montarville',80
 8100,0,'Fort-St-Louis',81
@@ -88,16 +96,16 @@
 8800,0,'Mountainview',88
 9001,0,'Ctr-Ville',90
 9000,0,'Stat Chevrier',90
-9100,0,'Boucherville',91
-9101,0,'Gare St-Bruno',91
-9201,0,'Agence Spatiale',92
-9200,0,'Clairevue Ouest',92
 9801,0,'Longueuil',98
 9800,0,'Parent',98
 9901,0,'Longueuil',99
 9900,0,'St-Bruno-De-Montarville',99
+12100,0,'Grande Allée',121
+12101,0,'Longueuil',121
 12301,0,'Longueuil',123
 12300,0,'Parcs Ind.',123
+12501,0,'Longueuil',125
+12500,0,'Réseau Transport Longueuil',125
 13201,0,'Panama',132
 13200,0,'Parc Cité',132
 16101,0,'Longueuil',161
@@ -106,6 +114,10 @@
 17001,0,'Métro Papineau',170
 17700,0,'Panama',177
 17701,0,'Ste-Foy',177
+18001,0,'Longueuil',180
+18000,0,'Sureaux',180
+18500,0,'Ampère',185
+18501,0,'Longueuil',185
 41000,0,'B Vieux-Longueuil',410
 41001,0,'Longueuil',410
 41701,0,'Longueuil',417
