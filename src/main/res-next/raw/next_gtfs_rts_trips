@@ -33,7 +33,7 @@
 2300,0,'Chemin Tremblay',23
 2301,0,'Longueuil',23
 2501,0,'Longueuil',25
-2500,0,'Parcs Ind.',25
+2500,0,'Parcs Ind',25
 2800,0,'Aéroport St-Hubert',28
 2801,0,'Longueuil',28
 2900,0,'Collectivité Nouvelle',29
@@ -81,7 +81,7 @@
 7600,0,'B Vieux-Longueuil',76
 7601,0,'Longueuil',76
 7701,0,'CÉGEP Édouard-Montpetit',77
-7700,0,'Parc Ind. Brossard',77
+7700,0,'Parc Ind Brossard',77
 7800,0,'Adoncour-Du Colisée',78
 7801,0,'Longueuil',78
 8001,0,'Longueuil',80
@@ -103,7 +103,7 @@
 12100,0,'Armand-Frappier',121
 12101,0,'Longueuil',121
 12301,0,'Longueuil',123
-12300,0,'Parcs Ind.',123
+12300,0,'Parcs Ind',123
 12501,0,'Longueuil',125
 12500,0,'Réseau Transport Longueuil',125
 13201,0,'Panama',132
@@ -127,7 +127,7 @@
 82100,0,'Armand-Frappier',821
 82101,0,'Grande Allée',821
 82200,0,'Gaétan-Boucher',822
-82201,0,'Parc Ind. G-Leclerc',822
+82201,0,'Parc Ind G-Leclerc',822
 84800,0,'Marie-Victorin',848
 84801,0,'Panama',848
 87701,0,'Illinois',877
