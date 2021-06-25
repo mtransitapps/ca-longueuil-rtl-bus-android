@@ -118,6 +118,10 @@
 18001,0,'Term Longueuil',180
 18500,0,'Ampère',185
 18501,0,'Term Longueuil',185
+26100,0,'St-Jacques & Sépaq',261
+26101,0,'Term Longueuil',261
+29801,0,'SEPAQ St-Bruno',298
+29800,0,'Term Longueuil',298
 41000,0,'Sect B Vieux-Longueuil',410
 41001,0,'Term Longueuil',410
 41700,0,'Sect M Vieux-Longueuil',417
@@ -126,8 +130,8 @@
 82000,0,'Fredière',820
 82100,0,'Armand-Frappier',821
 82101,0,'Grande Allée',821
+82201,0,'2e & Moïse-Vincent',822
 82200,0,'Cousineau & Gaétan-Boucher',822
-82201,0,'Moïse-Vincent & Cousineau',822
 84800,0,'Marie-Victorin',848
 84801,0,'Term Panama',848
 87701,0,'Illinois & Isabelle',877
