@@ -38,8 +38,11 @@
 2801,0,'Term Longueuil',28
 2901,0,'Term Longueuil',29
 2900,0,'Église & Église',29
+3001,0,'Term Panama',30
 3200,0,'Mountainview',32
 3201,0,'Term Panama',32
+3300,0,'Sects M-N-O Brossard',33
+3301,0,'Term Panama',33
 3400,0,'Term Ctr-Ville',34
 3401,0,'Term Panama',34
 3500,0,'Sect L Brossard',35
@@ -92,10 +95,18 @@
 8301,0,'Term Longueuil',83
 8400,0,'Montarville',84
 8401,0,'Term Longueuil',84
+8500,0,'Gascogne',85
+8501,0,'Term Longueuil',85
+8600,0,'Montarville',86
+8601,0,'Term Ctr-Ville',86
+8700,0,'Fort-St-Louis',87
+8701,0,'Term Ctr-Ville',87
 8800,0,'Mountainview',88
 8801,0,'Term Longueuil',88
 9000,0,'Stat Chevrier',90
 9001,0,'Term Ctr-Ville',90
+9301,0,'Gare St-Bruno',93
+9300,0,'Yvonne-Duckett',93
 9800,0,'Parent',98
 9801,0,'Term Longueuil',98
 9900,0,'St-Bruno-De-Montarville',99
@@ -106,6 +117,8 @@
 12300,0,'Église & Église',123
 12500,0,'RTL',125
 12501,0,'Term Longueuil',125
+12800,0,'Parent',128
+12801,0,'Term Longueuil',128
 13200,0,'Parc Cité',132
 13201,0,'Term Panama',132
 16101,0,'Term Longueuil',161
@@ -118,14 +131,19 @@
 18001,0,'Term Longueuil',180
 18500,0,'Ampère',185
 18501,0,'Term Longueuil',185
-26100,0,'St-Jacques & Sépaq',261
-26101,0,'Term Longueuil',261
-29801,0,'SEPAQ St-Bruno',298
-29800,0,'Term Longueuil',298
+20101,0,'Hotel Ville St-Lambert',201
+20801,0,'Term Longueuil',208
+21401,0,'DIX30',214
+21400,0,'Rome / St-Laurent',214
+22801,0,'Hotel Ville Longueuil',228
+28401,0,'Promenades Montarville',284
+29401,0,'Promenades St-Bruno',294
 41000,0,'Sect B Vieux-Longueuil',410
 41001,0,'Term Longueuil',410
 41700,0,'Sect M Vieux-Longueuil',417
 41701,0,'Term Longueuil',417
+44200,0,'Pacific',442
+44201,0,'Term Longueuil',442
 82001,0,'Cousineau',820
 82000,0,'Fredière',820
 82100,0,'Armand-Frappier',821
