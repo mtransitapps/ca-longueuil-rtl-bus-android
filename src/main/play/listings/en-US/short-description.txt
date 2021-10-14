@@ -1,2 +1,1 @@
-Longueuil RTL buses for MonTransit
-Schedule. News.
+Longueuil RTL buses for MonTransit. Schedule. News.

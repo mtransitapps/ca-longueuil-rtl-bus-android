@@ -1,17 +1,17 @@
 This application adds Longueuil RTL buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from www.rtl-longueuil.qc.ca, YouTube and @RTL_info and @RTL_Longueuil on Twitter.
+This app contains the buses schedule and the latest news from www.rtl-longueuil.qc.ca and @RTL_info and @RTL_Longueuil on Twitter.
 
 RTL serves Longueuil, Saint-Lambert, Boucherville, Brossard and Saint-Bruno-de-Montarville.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
 The information comes from the GTFS file provided by the Réseau de Transport de Longueuil
-http://www.rtl-longueuil.qc.ca/en-CA/open-data/
+https://www.rtl-longueuil.qc.ca/en-CA/open-data/
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-longueuil-rtl-bus-android
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-longueuil-rtl-bus-android
 This app is not related with the Réseau de Transport de Longueuil.
 
 Permissions:
-- Other: required to read news from www.rtl-longueuil.qc.ca, YouTube and Twitter
+- Other: required to read news from www.rtl-longueuil.qc.ca and Twitter
