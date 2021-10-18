@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="rss_db_version">1</integer>
+    <integer name="rss_db_version">2</integer>
     <string name="rss_authority">org.mtransit.android.ca_longueuil_rtl_bus.news.rss</string>
     <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="rss_color">@string/gtfs_rts_color</string>
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
     <string name="rss_encoding">utf-8</string>
     <string-array name="rss_feeds">
-        <item>http://www.rtl-longueuil.qc.ca/fr-CA/actualites/avis-a-la-clientele.rss</item>
-        <item>http://www.rtl-longueuil.qc.ca/en-CA/news/public-notice.rss</item>
-        <item>http://www.rtl-longueuil.qc.ca/fr-CA/actualites/communiques.rss</item>
-        <item>http://www.rtl-longueuil.qc.ca/en-CA/news/press-release.rss</item>
+        <item>https://www.rtl-longueuil.qc.ca/fr-CA/actualites/avis-a-la-clientele.rss</item>
+        <item>https://www.rtl-longueuil.qc.ca/en-CA/news/public-notice.rss</item>
+        <item>https://www.rtl-longueuil.qc.ca/fr-CA/actualites/communiques.rss</item>
+        <item>https://www.rtl-longueuil.qc.ca/en-CA/news/press-release.rss</item>
+    </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://www.rtl-longueuil.qc.ca/favicon.ico</item>
+        <item>https://www.rtl-longueuil.qc.ca/favicon.ico</item>
+        <item>https://www.rtl-longueuil.qc.ca/favicon.ico</item>
+        <item>https://www.rtl-longueuil.qc.ca/favicon.ico</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>RTL (Avis à la clientèle)</item>
@@ -19,10 +25,10 @@
         <item>RTL (Press Releases)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>http://www.rtl-longueuil.qc.ca/fr-CA/actualites/avis-a-la-clientele/</item>
-        <item>http://www.rtl-longueuil.qc.ca/en-CA/news/public-notice/</item>
-        <item>http://www.rtl-longueuil.qc.ca/fr-CA/actualites/communiques/</item>
-        <item>http://www.rtl-longueuil.qc.ca/en-CA/news/press-release/</item>
+        <item>https://www.rtl-longueuil.qc.ca/fr-CA/actualites/avis-a-la-clientele/</item>
+        <item>https://www.rtl-longueuil.qc.ca/en-CA/news/public-notice/</item>
+        <item>https://www.rtl-longueuil.qc.ca/fr-CA/actualites/communiques/</item>
+        <item>https://www.rtl-longueuil.qc.ca/en-CA/news/press-release/</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>www.rtl-longueuil.qc.ca</item>
