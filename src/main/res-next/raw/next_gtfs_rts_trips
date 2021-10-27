@@ -10,6 +10,8 @@
 600,0,'Term Panama',6
 800,0,'Promenades St-Bruno',8
 801,0,'Term Longueuil',8
+900,0,'Martineau & Chambly',9
+901,0,'Term Longueuil',9
 1000,0,'Sect B Vieux-Longueuil',10
 1001,0,'Term Longueuil',10
 1301,0,'Term Longueuil',13
@@ -131,14 +133,19 @@
 18001,0,'Term Longueuil',180
 18500,0,'Ampère',185
 18501,0,'Term Longueuil',185
+20101,0,'Hotel Ville St-Lambert',201
+20801,0,'Term Longueuil',208
+21401,0,'DIX30',214
+21400,0,'Rome / St-Laurent',214
+22801,0,'Hotel Ville Longueuil',228
+28401,0,'Promenades Montarville',284
+29401,0,'Promenades St-Bruno',294
 41000,0,'Sect B Vieux-Longueuil',410
 41001,0,'Term Longueuil',410
 41700,0,'Sect M Vieux-Longueuil',417
 41701,0,'Term Longueuil',417
 44200,0,'Pacific',442
 44201,0,'Term Longueuil',442
-46100,0,'Montarville',461
-46101,0,'Métro Radisson',461
 82001,0,'Cousineau',820
 82000,0,'Fredière',820
 82100,0,'Armand-Frappier',821
@@ -153,7 +160,7 @@
 88901,0,'Marie-Victorin',889
 89200,0,'Ampère',892
 89201,0,'Mortagne',892
-89300,0,'Mortagne',893
-89301,0,'Stat Mortagne',893
+89301,0,'P+R Mortagne',893
+89300,0,'Touraine & Descartes',893
 89400,0,'St-Basile-Le-Grand',894
 89401,0,'St-Bruno',894
