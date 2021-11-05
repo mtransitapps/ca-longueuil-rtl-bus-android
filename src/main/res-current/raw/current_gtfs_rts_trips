@@ -10,6 +10,8 @@
 600,0,'Term Panama',6
 800,0,'Promenades St-Bruno',8
 801,0,'Term Longueuil',8
+900,0,'Martineau & Chambly',9
+901,0,'Term Longueuil',9
 1000,0,'Sect B Vieux-Longueuil',10
 1001,0,'Term Longueuil',10
 1301,0,'Term Longueuil',13
@@ -158,7 +160,7 @@
 88901,0,'Marie-Victorin',889
 89200,0,'Ampère',892
 89201,0,'Mortagne',892
-89301,0,'Mortagne & Promenades Montarville',893
+89301,0,'P+R Mortagne',893
 89300,0,'Touraine & Descartes',893
 89400,0,'St-Basile-Le-Grand',894
 89401,0,'St-Bruno',894
