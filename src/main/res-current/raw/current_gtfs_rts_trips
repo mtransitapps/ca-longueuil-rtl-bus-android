@@ -34,7 +34,7 @@
 2200,0,'Jacques-Cartier',22
 2300,0,'Chemin Tremblay',23
 2301,0,'Term Longueuil',23
-2500,0,'Parcs Inds / Term Longueuil',25
+2500,0,'Louis-Pasteur & Groupe VA Inc',25
 2501,0,'Term Longueuil',25
 2800,0,'Aéroport St-Hubert',28
 2801,0,'Term Longueuil',28
@@ -49,6 +49,8 @@
 3401,0,'Term Panama',34
 3500,0,'Sect L Brossard',35
 3501,0,'Term Panama',35
+3700,0,'Simard',37
+3701,0,'Term Panama',37
 3900,0,'DIX30',39
 3901,0,'Term Panama',39
 4101,0,'Term Panama',41
@@ -93,6 +95,8 @@
 8001,0,'Term Longueuil',80
 8100,0,'Fort-St-Louis',81
 8101,0,'Term Longueuil',81
+8201,0,'Term Longueuil',82
+8200,0,'Term Montarville',82
 8300,0,'Montarville',83
 8301,0,'Term Longueuil',83
 8400,0,'Montarville',84
@@ -133,6 +137,8 @@
 18001,0,'Term Longueuil',180
 18500,0,'Ampère',185
 18501,0,'Term Longueuil',185
+19900,0,'St-Bruno-De-Montarville',199
+19901,0,'Term Longueuil',199
 20101,0,'Hotel Ville St-Lambert',201
 20801,0,'Term Longueuil',208
 21401,0,'DIX30',214
@@ -140,12 +146,16 @@
 22801,0,'Hotel Ville Longueuil',228
 28401,0,'Promenades Montarville',284
 29401,0,'Promenades St-Bruno',294
+29901,0,'Ski St-Bruno',299
+29900,0,'Term Longueuil',299
 41000,0,'Sect B Vieux-Longueuil',410
 41001,0,'Term Longueuil',410
 41700,0,'Sect M Vieux-Longueuil',417
 41701,0,'Term Longueuil',417
 44200,0,'Pacific',442
 44201,0,'Term Longueuil',442
+46101,0,'Métro Radisson',461
+46100,0,'Stat Touraine',461
 82001,0,'Cousineau',820
 82000,0,'Fredière',820
 82100,0,'Armand-Frappier',821
