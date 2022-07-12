@@ -18,8 +18,8 @@
 1300,0,'Term Panama',13
 1400,0,'Leduc & Allée Lumières',14
 1401,0,'Term Longueuil',14
-1501,0,'Term Ctr-Ville',15
 1500,0,'Term Longueuil',15
+1501,0,'Term Panama',15
 1601,0,'Term Longueuil',16
 1600,0,'Tremblay & #1195',16
 1700,0,'Sect M Vieux-Longueuil',17
@@ -55,10 +55,10 @@
 3901,0,'Term Panama',39
 4101,0,'Term Panama',41
 4200,0,'Parc Cité',42
-4201,0,'Term Ctr-Ville',42
+4201,0,'Term Panama',42
 4301,0,'Term Panama',43
 4400,0,'Sect M-N-O Brossard',44
-4401,0,'Term Ctr-Ville',44
+4401,0,'Term Panama',44
 4501,0,'Term Ctr-Ville',45
 4500,0,'Term Panama',45
 4700,0,'Sect R Brossard',47
@@ -74,7 +74,7 @@
 5900,0,'Gareau',59
 5901,0,'Term Panama',59
 6000,0,'Promenades St-Bruno',60
-6001,0,'Term Ctr-Ville',60
+6001,0,'Term Panama',60
 6100,0,'Montarville',61
 6101,0,'Métro Radisson',61
 7100,0,'Curé-Poirier',71
@@ -132,7 +132,7 @@
 17001,0,'Jacques-Cartier',170
 17000,0,'Métro Papineau',170
 17701,0,'Chambly & Pharmaprix',177
-17700,0,'Philippines & Term Panama',177
+17700,0,'Term Panama',177
 18000,0,'Sureaux',180
 18001,0,'Term Longueuil',180
 18500,0,'Ampère',185
@@ -158,6 +158,8 @@
 44201,0,'Term Longueuil',442
 46101,0,'Métro Radisson',461
 46100,0,'Stat Touraine',461
+78100,0,'Navette Fluviale',781
+78101,0,'Term Montarville',781
 82001,0,'Cousineau',820
 82000,0,'Fredière',820
 82100,0,'Armand-Frappier',821
