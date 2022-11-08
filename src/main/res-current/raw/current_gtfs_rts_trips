@@ -5,7 +5,7 @@
 400,0,'Maricourt & Cornwall',4
 401,0,'Term Longueuil',4
 500,0,'Sect M St-Hubert',5
-501,0,'Term Ctr-Ville',5
+501,0,'Term Panama',5
 601,0,'Term Longueuil',6
 600,0,'Term Panama',6
 800,0,'Promenades St-Bruno',8
@@ -34,7 +34,7 @@
 2200,0,'Jacques-Cartier',22
 2301,0,'Term Longueuil',23
 2300,0,'Tremblay',23
-2500,0,'Louis-Pasteur & Groupe VA Inc',25
+2500,0,'Parcs Inds / Term Longueuil',25
 2501,0,'Term Longueuil',25
 2800,0,'Aéroport St-Hubert',28
 2801,0,'Term Longueuil',28
@@ -66,7 +66,7 @@
 4600,0,'Sect R Brossard',46
 4601,0,'Term Panama',46
 4700,0,'Sect R Brossard',47
-4701,0,'Term Ctr-Ville',47
+4701,0,'Term Panama',47
 4900,0,'Sect R Brossard',49
 4901,0,'Term Panama',49
 5000,0,'Prince-Charles & Chambly',50
@@ -309,7 +309,7 @@
 88901,0,'Marie-Victorin',889
 89200,0,'Ampère',892
 89201,0,'Mortagne',892
-89301,0,'P+R Mortagne',893
-89300,0,'Touraine & Descartes',893
+89301,0,'Mortagne',893
+89300,0,'Stat Touraine',893
 89400,0,'St-Basile-Le-Grand',894
 89401,0,'St-Bruno',894
