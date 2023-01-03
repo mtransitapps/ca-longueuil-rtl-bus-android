@@ -34,7 +34,7 @@
 2200,0,'Jacques-Cartier',22
 2301,0,'Term Longueuil',23
 2300,0,'Tremblay',23
-2500,0,'Parcs Inds / Term Longueuil',25
+2500,0,'Louis-Pasteur & Groupe VA Inc',25
 2501,0,'Term Longueuil',25
 2800,0,'Aéroport St-Hubert',28
 2801,0,'Term Longueuil',28
@@ -145,13 +145,9 @@
 18501,0,'Term Longueuil',185
 19900,0,'St-Bruno',199
 19901,0,'Term Longueuil',199
-20101,0,'Mairie St-Lambert',201
-20801,0,'Term Longueuil',208
-21401,0,'DIX30',214
-21400,0,'Rome / St-Laurent',214
-22801,0,'Mairie Longueuil',228
 28401,0,'Promenades Montarville',284
-29401,0,'Promenades St-Bruno',294
+29900,0,'Ski St-Bruno',299
+29901,0,'Term Longueuil',299
 41000,0,'Sect B Vieux-Longueuil',410
 41001,0,'Term Longueuil',410
 41700,0,'Sect M Vieux-Longueuil',417
@@ -162,6 +158,8 @@
 44201,0,'Term Longueuil',442
 46101,0,'Métro Radisson',461
 46100,0,'Stat Touraine',461
+46201,0,'Santa Cabrini',462
+46200,0,'Stat Touraine',462
 50000,0,'Domicile',500
 50001,0,'École St-Lambert Inter',500
 50300,0,'Domicile',503
@@ -309,7 +307,7 @@
 88901,0,'Marie-Victorin',889
 89200,0,'Ampère',892
 89201,0,'Mortagne',892
-89301,0,'Mortagne',893
-89300,0,'Stat Touraine',893
+89300,0,'Mortagne',893
+89301,0,'Stat Touraine',893
 89400,0,'St-Basile-Le-Grand',894
 89401,0,'St-Bruno',894
