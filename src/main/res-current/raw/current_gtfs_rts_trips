@@ -34,7 +34,7 @@
 2200,0,'Jacques-Cartier',22
 2301,0,'Term Longueuil',23
 2300,0,'Tremblay',23
-2500,0,'Louis-Pasteur & Groupe VA Inc',25
+2500,0,'Parcs Inds / Term Longueuil',25
 2501,0,'Term Longueuil',25
 2800,0,'Aéroport St-Hubert',28
 2801,0,'Term Longueuil',28
@@ -146,8 +146,6 @@
 19900,0,'St-Bruno',199
 19901,0,'Term Longueuil',199
 28401,0,'Promenades Montarville',284
-29900,0,'Ski St-Bruno',299
-29901,0,'Term Longueuil',299
 41000,0,'Sect B Vieux-Longueuil',410
 41001,0,'Term Longueuil',410
 41700,0,'Sect M Vieux-Longueuil',417
