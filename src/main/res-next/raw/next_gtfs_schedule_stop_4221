@@ -45,16 +45,16 @@
 'SE',46100,51700,,'',2,1800,,'',2,1000,,'',2,6400,,'',2,2000,,'',2,7300,,'',2,3200,,'',2,8600,,'',2,8200,,'',2,10000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,2500,,'',2,6000,,'',2,2000,,'',2,7600,,'',2,2100,,'',2,700,,'',2,7100,,'',2,2100,,'',2,1400,,'',2,6700,,'',2,4500,,'',2,7200,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2
 'SE',46101,44700,,'',2,6800,,'',2,2400,,'',2,2000,,'',2,7000,,'',2,3000,,'',2,6500,,'',2,1200,,'',2,1900,,'',2,8900,,'',2,9000,,'',2,8700,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,6500,,'',2,4000,,'',2,14400,,'',2,5600,,'',2,9300,,'',2,6900,,'',2,3200,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2,3000,,'',2,7000,,'',2
 'DI',46200,72900,,'',2,10400,,'',2,10000,,'',2,62600,,'',2,10000,,'',2,10000,,'',2
-'DI',46201,61900,0,'Métro Radisson / HMR',2,9300,0,'Métro Radisson / HMR',2,10200,0,'Métro Radisson / HMR',2,62600,0,'Métro Radisson / HMR',2,9900,0,'Métro Radisson / HMR',2,10000,0,'Métro Radisson / HMR',2
+'DI',46201,61900,0,'Term Radisson / HMR',2,9300,0,'Term Radisson / HMR',2,10200,0,'Term Radisson / HMR',2,62600,0,'Term Radisson / HMR',2,9900,0,'Term Radisson / HMR',2,10000,0,'Term Radisson / HMR',2
 'F1',46200,72900,,'',2,10400,,'',2,10000,,'',2,62600,,'',2,10000,,'',2,10000,,'',2
-'F1',46201,61900,0,'Métro Radisson / HMR',2,9300,0,'Métro Radisson / HMR',2,10200,0,'Métro Radisson / HMR',2,62600,0,'Métro Radisson / HMR',2,9900,0,'Métro Radisson / HMR',2,10000,0,'Métro Radisson / HMR',2
+'F1',46201,61900,0,'Term Radisson / HMR',2,9300,0,'Term Radisson / HMR',2,10200,0,'Term Radisson / HMR',2,62600,0,'Term Radisson / HMR',2,9900,0,'Term Radisson / HMR',2,10000,0,'Term Radisson / HMR',2
 'F2',46200,72900,,'',2,10400,,'',2,10000,,'',2,62600,,'',2,10000,,'',2,10000,,'',2
-'F2',46201,61900,0,'Métro Radisson / HMR',2,9300,0,'Métro Radisson / HMR',2,10200,0,'Métro Radisson / HMR',2,62600,0,'Métro Radisson / HMR',2,9900,0,'Métro Radisson / HMR',2,10000,0,'Métro Radisson / HMR',2
+'F2',46201,61900,0,'Term Radisson / HMR',2,9300,0,'Term Radisson / HMR',2,10200,0,'Term Radisson / HMR',2,62600,0,'Term Radisson / HMR',2,9900,0,'Term Radisson / HMR',2,10000,0,'Term Radisson / HMR',2
 'F3',46200,72900,,'',2,10400,,'',2,10000,,'',2,62600,,'',2,10000,,'',2,10000,,'',2
-'F3',46201,61900,0,'Métro Radisson / HMR',2,9300,0,'Métro Radisson / HMR',2,10200,0,'Métro Radisson / HMR',2,62600,0,'Métro Radisson / HMR',2,9900,0,'Métro Radisson / HMR',2,10000,0,'Métro Radisson / HMR',2
+'F3',46201,61900,0,'Term Radisson / HMR',2,9300,0,'Term Radisson / HMR',2,10200,0,'Term Radisson / HMR',2,62600,0,'Term Radisson / HMR',2,9900,0,'Term Radisson / HMR',2,10000,0,'Term Radisson / HMR',2
 'F4',46200,72900,,'',2,10400,,'',2,10000,,'',2,62600,,'',2,10000,,'',2,10000,,'',2
-'F4',46201,61900,0,'Métro Radisson / HMR',2,9300,0,'Métro Radisson / HMR',2,10200,0,'Métro Radisson / HMR',2,62600,0,'Métro Radisson / HMR',2,9900,0,'Métro Radisson / HMR',2,10000,0,'Métro Radisson / HMR',2
+'F4',46201,61900,0,'Term Radisson / HMR',2,9300,0,'Term Radisson / HMR',2,10200,0,'Term Radisson / HMR',2,62600,0,'Term Radisson / HMR',2,9900,0,'Term Radisson / HMR',2,10000,0,'Term Radisson / HMR',2
 'SA',46200,72900,,'',2,10400,,'',2,10000,,'',2,62600,,'',2,10000,,'',2,10000,,'',2
-'SA',46201,61900,0,'Métro Radisson / HMR',2,9300,0,'Métro Radisson / HMR',2,10200,0,'Métro Radisson / HMR',2,62600,0,'Métro Radisson / HMR',2,9900,0,'Métro Radisson / HMR',2,10000,0,'Métro Radisson / HMR',2
+'SA',46201,61900,0,'Term Radisson / HMR',2,9300,0,'Term Radisson / HMR',2,10200,0,'Term Radisson / HMR',2,62600,0,'Term Radisson / HMR',2,9900,0,'Term Radisson / HMR',2,10000,0,'Term Radisson / HMR',2
 'SE',46200,72900,,'',2,10400,,'',2,10000,,'',2,62600,,'',2,10000,,'',2,10000,,'',2
-'SE',46201,61900,0,'Métro Radisson / HMR',2,9300,0,'Métro Radisson / HMR',2,10200,0,'Métro Radisson / HMR',2,62600,0,'Métro Radisson / HMR',2,9900,0,'Métro Radisson / HMR',2,10000,0,'Métro Radisson / HMR',2
+'SE',46201,61900,0,'Term Radisson / HMR',2,9300,0,'Term Radisson / HMR',2,10200,0,'Term Radisson / HMR',2,62600,0,'Term Radisson / HMR',2,9900,0,'Term Radisson / HMR',2,10000,0,'Term Radisson / HMR',2
