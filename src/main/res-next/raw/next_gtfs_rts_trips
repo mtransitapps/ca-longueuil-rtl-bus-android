@@ -30,7 +30,7 @@
 2001,0,'Term Longueuil',20
 2100,0,'Pl Java',21
 2101,0,'Term Longueuil',21
-2201,0,'Gare St-Hubert',22
+2201,0,'Gare Long - St-Hubert',22
 2200,0,'Stat Mortagne',22
 2301,0,'Term Longueuil',23
 2300,0,'Tremblay',23
@@ -215,7 +215,7 @@
 57500,0,'Domicile',575
 57501,0,'École St-Lambert Inter',575
 58000,0,'Domicile',580
-60001,0,'Collèges NDL Et Durocher',600
+60001,0,'Collèges NDL / Durocher',600
 60100,0,'Domicile',601
 60101,0,'École Agora',601
 60200,0,'Domicile',602
@@ -230,7 +230,7 @@
 60801,0,'Term Longueuil',608
 60900,0,'Domicile',609
 60901,0,'École Agora',609
-61301,0,'Collèges NDL Et Durocher',613
+61301,0,'Collèges NDL / Durocher',613
 61300,0,'Domicile',613
 61400,0,'Domicile',614
 61600,0,'Domicile',616
