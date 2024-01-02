@@ -9,7 +9,7 @@
 13,'13','Riverside / Secteurs P-V Brossard','',1570,700
 14,'14','Rome / DIX30','',1571,700
 15,'15','Riverside / Alexandra / Churchill','',1572,700
-16,'16','Nobert / King-George / Adoncour','',1573,700
+16,'16','Nobert / Antoinette-Robidoux / Adoncour','',1573,700
 17,'17','Roland-Therrien / Roberval','',1574,700
 19,'19','Davis','',1576,700
 20,'20','Jean-Paul-Vincent / Beauharnois','',1598,700
@@ -70,8 +70,9 @@
 185,'185','Ampère / Gay-Lussac','',48878,700
 192,'192','Terminus Brossard / Montarville / Y-Duckett','',48906,700
 199,'199','Seigneurial / Grand Boulevard','',48913,700
-214,'214','Terminus Brossard / Rome / St-Laurent','',49621,700
-284,'284','Navette Électrique - Boucherville','',49838,700
+214,'214','Station Brossard / Rome / St-Laurent','',49621,700
+284,'284','Navette Boucherville','',49838,700
+299,'299','SKIBUS Et SÉPAQ St-Bruno','',49874,700
 410,'410','Express Roland-Therrien / Belcourt','',51539,700
 417,'417','Express Roland-Therrien / Roberval','',51546,700
 421,'421','Grande-Allée / A-Frappier','',51571,700
@@ -80,6 +81,7 @@
 461,'461','Express De Touraine / Montarville / Radisson','',51695,700
 462,'462','Touraine-Mortagne-Radisson-HMR-Inst.Cardio','',51696,700
 500,'500','École St-Lambert International High School','',52469,700
+501,'501','Écoles Privées','',52470,700
 503,'503','École Centennial Regional High School','',52472,700
 505,'505','École Centennial Regional High School','',52474,700
 521,'521','École Centennial Regional High School','',52532,700
@@ -149,11 +151,8 @@
 695,'695','École Lucille-Teasdale','',53714,700
 696,'696','École Lucille-Teasdale','',53715,700
 697,'697','École Lucille-Teasdale - Secteur Chevrier','',53716,700
-720,'720','Navette REM Terminus Panama - Station Île-Des-Soeurs','',54453,700
-722,'722','Navette REM Terminus Panama - Terminus Centre-Ville','',54455,700
 820,'T20','Taxi Collectif - Ch Chambly / Pacific','',55414,1501
 822,'T22','Taxi Collectif - Parc Industriel Gérard-Leclerc','',55416,1501
 848,'T48','Taxi Collectif - Brossard M-Victorin / St-Laurent','',55484,1501
 889,'T89','Taxi Collectif - Parc Ind Boucherville / Eiffel','',55609,1501
 892,'T92','Taxi Collectif - Parc Ind Boucherville / G-Lussac','',55633,1501
-893,'T93','Taxi Collectif - Taxi De Mortagne / Boisé','',55634,1501
