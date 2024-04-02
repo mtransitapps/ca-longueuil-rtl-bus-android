@@ -72,7 +72,6 @@
 199,'199','Seigneurial / Grand Boulevard','',48913,700
 214,'214','Station Brossard / Rome / St-Laurent','',49621,700
 284,'284','Navette Boucherville','',49838,700
-299,'299','SKIBUS Et SÉPAQ St-Bruno','',49874,700
 410,'410','Express Roland-Therrien / Belcourt','',51539,700
 417,'417','Express Roland-Therrien / Roberval','',51546,700
 421,'421','Grande-Allée / A-Frappier','',51571,700
@@ -114,14 +113,14 @@
 602,'602','École De L''Agora','',53432,700
 604,'604','École De L''Agora','',53434,700
 605,'605','École De L''Agora','',53435,700
-606,'606','Écoles Privées','',53436,700
+606,'606','Écoles Privées / Collège Champlain','',53436,700
 607,'607','École De L''Agora','',53437,700
 608,'608','École André-Laurendeau Et Cégep Édouard-Montpetit','',53438,700
 609,'609','École De L''Agora','',53439,700
-613,'613','Écoles Privées','',53464,700
-614,'614','Écoles Privées','',53465,700
+613,'613','Écoles Privées / Collège Champlain','',53464,700
+614,'614','Écoles Privées / Collège Champlain','',53465,700
 616,'616','École Gérard-Filion','',53467,700
-618,'618','Écoles Privées','',53469,700
+618,'618','Écoles Privées / Collège Champlain','',53469,700
 620,'620','Collège Français','',53492,700
 624,'624','École St-Jean-Baptiste','',53496,700
 640,'640','École Antoine-Brossard','',53554,700
