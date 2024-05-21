@@ -1,0 +1,85 @@
+1,'1','Desaulniers / Victoria / Windsor','',49,700
+3,'3','Secteur Laflèche','',51,700
+4,'4','Taschereau / Payer / DIX30','',52,700
+5,'5','Auteuil / Mtée St-Hubert / Maisonneuve','',53,700
+6,'6','Victoria','',54,700
+8,'8','Chambly / Cousineau / Promenades St-Bruno','',56,700
+9,'9','Secteurs L-M St-Hubert','',57,700
+10,'10','Roland-Therrien / Belcourt','',1567,700
+13,'13','Riverside / Secteurs P-V Brossard','',1570,700
+14,'14','Rome / DIX30','',1571,700
+15,'15','Riverside / Alexandra / Churchill','',1572,700
+16,'16','Nobert / Antoinette-Robidoux / Adoncour','',1573,700
+17,'17','Roland-Therrien / Roberval','',1574,700
+19,'19','Davis','',1576,700
+20,'20','Jean-Paul-Vincent / Beauharnois','',1598,700
+21,'21','Grande-Allée / Quartier','',1599,700
+22,'22','Gare Longueuil - St-Hubert / Sect B Vieux-Longueuil','',1600,700
+23,'23','Ste-Hélène / Jacques-Cartier','',1601,700
+25,'25','Parcs Industriels Vieux-Longueuil / Boucherville','',1603,700
+28,'28','Chambly / Savane / ENA','',1606,700
+29,'29','Collectivité Nouvelle','',1607,700
+30,'30','Secteurs P-V Brossard','',1629,700
+31,'31','Secteurs R-S-T Brossard / St-Laurent','',1630,700
+32,'32','Secteur B Brossard / Mountainview','',1631,700
+33,'33','Secteurs M-N-O Brossard','',1632,700
+34,'34','Secteur A Brossard / Bellevue','',1633,700
+37,'37','Simard / Béarn','',1636,700
+38,'38','Chevrier / Secteur B Brossard','',1637,700
+41,'41','Rome / Milan','',1661,700
+42,'42','Gaétan-Boucher / Parc De La Cité','',1662,700
+43,'43','Milan / Rome','',1663,700
+44,'44','Secteurs M-N-O Brossard','',1664,700
+46,'46','Secteurs R-S-T Brossard','',1666,700
+47,'47','Secteurs R-S-T Brossard','',1667,700
+49,'49','Secteurs R-S Brossard','',1669,700
+50,'50','Bienville / Orchard / Prince-Charles','',1691,700
+54,'54','Tiffin / St-Georges / Taschereau','',1695,700
+55,'55','Victoria / Wellington','',1696,700
+59,'59','Montgomery / Gareau','',1700,700
+60,'60','Milan / Gaétan-Boucher / Promenades St-Bruno','',1722,700
+61,'61','Boucherville / Terminus Radisson','',1723,700
+71,'71','Curé-Poirier','',1754,700
+73,'73','Joliette / Lyon','',1756,700
+74,'74','St-Laurent / Secteur Bellerive','',1757,700
+75,'75','Quinn / Brébeuf','',1758,700
+76,'76','Roland-Therrien / Roberval','',1759,700
+77,'77','Taschereau / Coteau-Rouge / Cégep É.-Montpetit','',1760,700
+78,'78','Adoncour / Colisée','',1761,700
+80,'80','Montarville / Carrefour De La Rive-Sud','',1784,700
+81,'81','Fort-St-Louis / Marie-Victorin','',1785,700
+82,'82','Marie-Victorin / Fort-St-Louis','',1786,700
+83,'83','Montarville / Samuel-De Champlain','',1787,700
+84,'84','Samuel-De Champlain / Montarville','',1788,700
+85,'85','Îles-Percées / Mortagne / Gascogne','',1789,700
+86,'86','Samuel-De Champlain / Montarville / TCV','',1790,700
+87,'87','Marie-Victorin / Fort St-Louis / TCV','',1791,700
+88,'88','Chambly / Mountainview','',1792,700
+93,'93','Gare St-Bruno / Montarville / Y-Duckett','',1818,700
+98,'98','Parc Industriel St-Bruno / Parent','',1823,700
+99,'99','Promenades St-Bruno / St-Bruno-De-Montarville','',1824,700
+120,'120','Fernand-Lafontaine / Stationnement De Mortagne','',48687,700
+123,'123','Jacques-Cartier / Parcs Industriels','',48690,700
+125,'125','Pratt & Whitney / Lumenpulse','',48692,700
+128,'128','Zone Aéroportuaire / Parc Industriel St-Bruno','',48695,700
+132,'132','DIX30 / Parc De La Cité / Mountainview','',48720,700
+160,'160','Milan / Gaétan-Boucher / Centre-Ville St-Bruno','',48811,700
+161,'161','R-Therrien / J-Cartier / Montarville','',48812,700
+170,'170','Station Papineau / Ste-Hélène / J-Cartier','',48842,700
+180,'180','Montarville / Sureaux','',48873,700
+185,'185','Ampère / Gay-Lussac','',48878,700
+192,'192','Terminus Brossard / Montarville / Y-Duckett','',48906,700
+199,'199','Seigneurial / Grand Boulevard','',48913,700
+214,'214','Station Brossard / Rome / St-Laurent','',49621,700
+284,'284','Navette Boucherville','',49838,700
+410,'410','Express Roland-Therrien / Belcourt','',51539,700
+417,'417','Express Roland-Therrien / Roberval','',51546,700
+421,'421','Grande-Allée / A-Frappier','',51571,700
+428,'428','Zone Aéroportuaire / Agence Spatiale Canadienne','',51578,700
+442,'442','Cousineau / Pacific','',51634,700
+461,'461','Express De Touraine / Montarville / Radisson','',51695,700
+462,'462','Touraine-Mortagne-Radisson-HMR-Inst.Cardio','',51696,700
+820,'T20','Taxi Collectif - Ch Chambly / Pacific','',55414,1501
+822,'T22','Taxi Collectif - Parc Industriel Gérard-Leclerc','',55416,1501
+848,'T48','Taxi Collectif - Brossard M-Victorin / St-Laurent','',55484,1501
+889,'T89','Taxi Collectif - Parc Ind Boucherville / Eiffel','',55609,1501
