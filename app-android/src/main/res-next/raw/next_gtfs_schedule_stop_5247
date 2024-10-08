@@ -1,0 +1,21 @@
+'F1',2200,63300,,'',2,9200,,'',2,2500,,'',2,89300,,'',2,8000,,'',2,2000,,'',2,7000,,'',2,4000,,'',2
+'F4',2200,63300,,'',2,9200,,'',2,2500,,'',2,89300,,'',2,8000,,'',2,2000,,'',2,7000,,'',2,4000,,'',2
+'SE',2200,63300,,'',2,9200,,'',2,2500,,'',2,89300,,'',2,8000,,'',2,2000,,'',2,7000,,'',2,4000,,'',2
+'DI',2500,71340,,'',2
+'F1',2500,71340,,'',2
+'F2',2500,71340,,'',2
+'F3',2500,71340,,'',2
+'F4',2500,71340,,'',2
+'F5',2500,71340,,'',2
+'F6',2500,71340,,'',2
+'SA',2500,71340,,'',2
+'SE',2500,53640,,'',2,7100,,'',2,3080,,'',2,1900,,'',2,6100,,'',2,1900,,'',2,7000,,'',2,2910,,'',2,7200,,'',2,3000,,'',2,47000,,'',2,3000,,'',2,6900,,'',2,1300,,'',2,1800,,'',2,7100,,'',2,3000,,'',2,7000,,'',2,2900,,'',2,7100,,'',2,2800,,'',2,7000,,'',2,33400,,'',2,8500,,'',2,1500,,'',2,8400,,'',2
+'DI',16100,62810,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,69400,0,'Stat Mortagne',2,6800,0,'Stat Mortagne',2,3200,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7200,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2
+'F1',16100,62810,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,69200,0,'Stat Mortagne',2,7100,0,'Stat Mortagne',2,3100,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3100,0,'Stat Mortagne',2,7100,0,'Stat Mortagne',2,2900,0,'Stat Mortagne',2
+'F2',16100,62810,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,69400,0,'Stat Mortagne',2,6800,0,'Stat Mortagne',2,3200,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7200,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2
+'F3',16100,62810,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,69200,0,'Stat Mortagne',2,7100,0,'Stat Mortagne',2,3100,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3100,0,'Stat Mortagne',2,7100,0,'Stat Mortagne',2,2900,0,'Stat Mortagne',2
+'F4',16100,62810,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,69200,0,'Stat Mortagne',2,7100,0,'Stat Mortagne',2,3100,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3100,0,'Stat Mortagne',2,7100,0,'Stat Mortagne',2,2900,0,'Stat Mortagne',2
+'F5',16100,62810,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,69400,0,'Stat Mortagne',2,6800,0,'Stat Mortagne',2,3200,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7200,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2
+'F6',16100,62810,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,69200,0,'Stat Mortagne',2,7100,0,'Stat Mortagne',2,3100,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3100,0,'Stat Mortagne',2,7100,0,'Stat Mortagne',2,2900,0,'Stat Mortagne',2
+'SA',16100,62810,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,69200,0,'Stat Mortagne',2,7100,0,'Stat Mortagne',2,3100,0,'Stat Mortagne',2,7000,0,'Stat Mortagne',2,3100,0,'Stat Mortagne',2,7100,0,'Stat Mortagne',2,2900,0,'Stat Mortagne',2
+'SE',16100,70740,0,'Stat Mortagne',2,1600,0,'Stat Mortagne',2,2300,0,'Stat Mortagne',2,5560,0,'Stat Mortagne',2,2200,0,'Stat Mortagne',2,2000,0,'Stat Mortagne',2,36500,0,'Stat Mortagne',2,29940,0,'Stat Mortagne',2,3000,0,'Stat Mortagne',2,2100,0,'Stat Mortagne',2,6000,0,'Stat Mortagne',2,2100,0,'Stat Mortagne',2,6000,0,'Stat Mortagne',2,1960,0,'Stat Mortagne',2,2000,0,'Stat Mortagne',2,1920,0,'Stat Mortagne',2,6000,0,'Stat Mortagne',2,2000,0,'Stat Mortagne',2,1900,0,'Stat Mortagne',2,6000,0,'Stat Mortagne',2
