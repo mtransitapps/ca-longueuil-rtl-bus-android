@@ -8,6 +8,10 @@
         <item>RTL_info</item>
         <item>RTL_Longueuil</item>
     </string-array>
+    <string-array name="twitter_screen_names_id">
+        <item>543391792</item>
+        <item>960599371</item>
+    </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
         <item>@string/news_provider_language_unknown_show_all</item>
