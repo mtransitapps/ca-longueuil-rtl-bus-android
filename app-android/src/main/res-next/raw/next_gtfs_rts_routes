@@ -64,7 +64,7 @@
 128,'128','Zone Aéroportuaire / Parc Industriel St-Bruno','A32638',48695,700
 132,'132','DIX30 / Parc De La Cité / Mountainview','A32638',48720,700
 160,'160','Milan / Gaétan-Boucher / Centre-Ville St-Bruno','A32638',48811,700
-161,'161','R-Therrien / J-Cartier / Montarville','A32638',48812,700
+161,'161','R-Therrien / J-Cartier / Stationnement De Mortagne','A32638',48812,700
 170,'170','Station Papineau / Ste-Hélène / J-Cartier','A32638',48842,700
 180,'180','Montarville / Sureaux','A32638',48873,700
 185,'185','Ampère / Gay-Lussac','A32638',48878,700
@@ -149,7 +149,7 @@
 695,'695','École Lucille-Teasdale','A32638',53714,700
 696,'696','École Lucille-Teasdale','A32638',53715,700
 697,'697','École Lucille-Teasdale - Secteur Chevrier','A32638',53716,700
-720,'720','Brossard / Quartier / Panama / Île-Des-Soeurs','A32638',54453,700
-721,'721','Brossard / Quartier / Gare Centrale','A32638',54454,700
-722,'722','Panama / Gare Centrale','A32638',54455,700
+720,'720','Brossard / Quartier / Panama / Île-Des-Soeurs','72A300',54453,700
+721,'721','Brossard / Quartier / Gare Centrale','72A300',54454,700
+722,'722','Panama / Gare Centrale','72A300',54455,700
 848,'T48','Taxi Collectif - Brossard M-Victorin / St-Laurent','A32638',55484,1501
