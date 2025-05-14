@@ -6,6 +6,9 @@
     <string-array name="youtube_channels_username">
         <item />
     </string-array>
+    <string-array name="youtube_channels_handle">
+        <item>rtlLongueuil</item>
+    </string-array>
     <string-array name="youtube_channels_id">
         <item>UCEhca3umlAoQBsmgb4HvxSQ</item>
     </string-array>
@@ -19,7 +22,7 @@
         <item>@string/gtfs_rts_short_name</item>
     </string-array>
     <string-array name="youtube_channels_author_url">
-        <item>https://www.youtube.com/c/rtlLongueuil</item>
+        <item>https://www.youtube.com/@rtlLongueuil</item>
     </string-array>
     <string-array name="youtube_channels_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
