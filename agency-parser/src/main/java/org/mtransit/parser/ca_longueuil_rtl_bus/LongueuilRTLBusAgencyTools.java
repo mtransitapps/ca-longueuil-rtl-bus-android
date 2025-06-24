@@ -31,11 +31,6 @@ public class LongueuilRTLBusAgencyTools extends DefaultAgencyTools {
 		return "RTL";
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public Integer getAgencyRouteType() {
@@ -50,11 +45,6 @@ public class LongueuilRTLBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
-	}
-
-	@Override
-	public boolean useRouteShortNameForRouteId() {
-		return false;
 	}
 
 	private static final Pattern CLEAN_TAXI = Pattern.compile("(taxi)\\s*-\\s*", Pattern.CASE_INSENSITIVE);
