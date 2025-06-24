@@ -64,7 +64,7 @@
 128,'128','Zone Aéroportuaire / Parc Industriel St-Bruno','A32638',48695,700
 132,'132','DIX30 / Parc De La Cité / Mountainview','A32638',48720,700
 160,'160','Milan / Gaétan-Boucher / Centre-Ville St-Bruno','A32638',48811,700
-161,'161','R-Therrien / J-Cartier / Stationnement De Mortagne','A32638',48812,700
+161,'161','R-Therrien / J-Cartier / Mortagne','A32638',48812,700
 170,'170','Station Papineau / Ste-Hélène / J-Cartier','A32638',48842,700
 180,'180','Montarville / Sureaux','A32638',48873,700
 185,'185','Ampère / Gay-Lussac','A32638',48878,700
@@ -79,77 +79,6 @@
 442,'442','Cousineau / Pacific','A32638',51634,700
 461,'461','Express De Touraine / Montarville / Radisson','A32638',51695,700
 462,'462','Touraine-Mortagne-Radisson-HMR-Inst.Cardio','A32638',51696,700
-500,'500','École St-Lambert International High School','A32638',52469,700
-501,'501','Écoles Privées','A32638',52470,700
-503,'503','École Centennial Regional High School','A32638',52472,700
-505,'505','École Centennial Regional High School','A32638',52474,700
-521,'521','École Centennial Regional High School','A32638',52532,700
-526,'526','École Centennial Regional High School','A32638',52537,700
-530,'530','École Centennial Regional High School','A32638',52562,700
-532,'532','École Centennial Regional High School','A32638',52564,700
-533,'533','École Centennial Regional High School','A32638',52565,700
-534,'534','École Centennial Regional High School','A32638',52566,700
-535,'535','École Centennial Regional High School','A32638',52567,700
-536,'536','École Centennial Regional High School','A32638',52568,700
-538,'538','École Heritage Regional High School','A32638',52570,700
-539,'539','École Heritage Regional High School','A32638',52571,700
-540,'540','École Heritage Regional High School','A32638',52593,700
-542,'542','École Heritage Regional High School','A32638',52595,700
-544,'544','École Centennial Regional High School','A32638',52597,700
-546,'546','École Centennial Regional High School','A32638',52599,700
-547,'547','École Centennial Regional High School','A32638',52600,700
-549,'549','École Centennial Regional High School','A32638',52602,700
-550,'550','École Centennial Regional High School','A32638',52624,700
-551,'551','École Centennial Regional High School','A32638',52625,700
-554,'554','Écoles Privées','A32638',52628,700
-565,'565','École St-Lambert International High School','A32638',52660,700
-570,'570','École St-Lambert International High School','A32638',52686,700
-572,'572','École St-Lambert International High School','A32638',52688,700
-575,'575','École St-Lambert International High School','A32638',52691,700
-580,'580','École St-Lambert International High School','A32638',52717,700
-600,'600','Écoles Privées','A32638',53430,700
-601,'601','École De L''Agora','A32638',53431,700
-602,'602','École De L''Agora','A32638',53432,700
-604,'604','École De L''Agora','A32638',53434,700
-605,'605','École De L''Agora','A32638',53435,700
-606,'606','Écoles Privées / Collège Champlain','A32638',53436,700
-607,'607','École De L''Agora','A32638',53437,700
-608,'608','École André-Laurendeau Et Cégep Édouard-Montpetit','A32638',53438,700
-609,'609','École De L''Agora','A32638',53439,700
-613,'613','Écoles Privées / Collège Champlain','A32638',53464,700
-614,'614','Écoles Privées / Collège Champlain','A32638',53465,700
-616,'616','École Gérard-Filion','A32638',53467,700
-618,'618','Écoles Privées / Collège Champlain','A32638',53469,700
-620,'620','Collège Français','A32638',53492,700
-624,'624','École St-Jean-Baptiste','A32638',53496,700
-640,'640','École Antoine-Brossard','A32638',53554,700
-644,'644','École Antoine-Brossard','A32638',53558,700
-650,'650','École Antoine-Brossard','A32638',53585,700
-653,'653','École Antoine-Brossard','A32638',53588,700
-656,'656','École Antoine-Brossard','A32638',53591,700
-660,'660','École Antoine-Brossard','A32638',53616,700
-664,'664','École Antoine-Brossard','A32638',53620,700
-665,'665','École Antoine-Brossard','A32638',53621,700
-670,'670','École Antoine-Brossard','A32638',53647,700
-671,'671','École Jacques-Rousseau','A32638',53648,700
-672,'672','École Jacques-Rousseau','A32638',53649,700
-673,'673','École Jacques-Rousseau','A32638',53650,700
-674,'674','École Antoine-Brossard','A32638',53651,700
-675,'675','École Jacques-Rousseau','A32638',53652,700
-676,'676','École Jacques-Rousseau','A32638',53653,700
-678,'678','École Jacques-Rousseau','A32638',53655,700
-683,'683','Cégep Édouard-Montpetit','A32638',53681,700
-684,'684','École Antoine-Brossard','A32638',53682,700
-689,'689','École Antoine-Brossard','A32638',53687,700
-690,'690','École Antoine-Brossard','A32638',53709,700
-691,'691','École Lucille-Teasdale','A32638',53710,700
-692,'692','École Lucille-Teasdale','A32638',53711,700
-693,'693','École Lucille-Teasdale','A32638',53712,700
-694,'694','École Lucille-Teasdale','A32638',53713,700
-695,'695','École Lucille-Teasdale','A32638',53714,700
-696,'696','École Lucille-Teasdale','A32638',53715,700
-697,'697','École Lucille-Teasdale - Secteur Chevrier','A32638',53716,700
-720,'720','Brossard / Quartier / Panama / Île-Des-Soeurs','72A300',54453,700
-721,'721','Brossard / Quartier / Gare Centrale','72A300',54454,700
-722,'722','Panama / Gare Centrale','72A300',54455,700
+722,'722','Panama / Terminus Centre-Ville','72A300',54455,700
 848,'T48','Taxi Collectif - Brossard M-Victorin / St-Laurent','A32638',55484,1501
+872,'T72','Taxi Collectif - Terminus Panama / Île Des Soeurs','72A300',55571,1501
