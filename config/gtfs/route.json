@@ -1,0 +1,50 @@
+{
+  "default_route_id_enabled": true,
+  "route_long_name_cleaners": [
+    {
+      "regex": "(taxi)\\s*-\\s*",
+      "ignore_case": true,
+      "replacement": "Taxi "
+    }
+  ],
+  "direction_finder_enabled": true,
+  "trip_headsign_cleaners": [
+    {
+      "regex": "((^|\\W)(civique (#)?(\\d+))(\\W|$))",
+      "ignore_case": true,
+      "replacement": "$2#$5$6"
+    },
+    {
+      "regex": "((du )?r[eé]seau (de )?transport (de )?longueuil)",
+      "ignore_case": true,
+      "replacement": "RTL"
+    },
+    {
+      "regex": "(([E|É]NA - )?([E|É]cole nationale d\\'a[é|e]rotechnique))",
+      "ignore_case": true,
+      "replacement": "ÉNA"
+    }
+  ],
+  "stop_name_cleaners": [
+    {
+      "regex": "( zone (\\d+))",
+      "ignore_case": true,
+      "replacement": " Z:$2"
+    },
+    {
+      "regex": "((^|\\W)(civique (#)?(\\d+))(\\W|$))",
+      "ignore_case": true,
+      "replacement": "$2#$5$6"
+    },
+    {
+      "regex": "((du )?r[eé]seau (de )?transport (de )?longueuil)",
+      "ignore_case": true,
+      "replacement": "RTL"
+    },
+    {
+      "regex": "(([E|É]NA - )?([E|É]cole nationale d\\'a[é|e]rotechnique))",
+      "ignore_case": true,
+      "replacement": "ÉNA"
+    }
+  ]
+}

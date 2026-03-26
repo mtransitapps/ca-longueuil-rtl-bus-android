@@ -28,7 +28,7 @@
 1901,0,'Term Longueuil',19
 2000,0,'Sect B Vieux-Longueuil',20
 2001,0,'Term Longueuil',20
-2100,0,'Pl Java',21
+2100,0,'Place Java',21
 2101,0,'Term Longueuil',21
 2201,0,'Gare Long - St-Hubert',22
 2200,0,'Stat Mortagne',22
@@ -38,8 +38,8 @@
 2501,0,'Term Longueuil',25
 2800,0,'Pratt&Withney (STH)',28
 2801,0,'Term Longueuil',28
+2900,0,'De L''Église',29
 2901,0,'Term Longueuil',29
-2900,0,'Église',29
 3001,0,'Term Panama',30
 3100,0,'Rome / St-Laurent',31
 3101,0,'Term Panama',31
@@ -101,7 +101,7 @@
 8301,0,'Term Longueuil',83
 8400,0,'Montarville',84
 8401,0,'Term Longueuil',84
-8500,0,'Gascogne',85
+8500,0,'De Gascogne',85
 8501,0,'Term Longueuil',85
 8600,0,'Montarville',86
 8601,0,'Term Ctr-Ville',86
@@ -131,7 +131,7 @@
 16100,0,'Term Montarville',161
 17001,0,'Jacques-Cartier',170
 17000,0,'Métro Papineau',170
-18000,0,'Sureaux',180
+18000,0,'Des Sureaux',180
 18001,0,'Term Longueuil',180
 18500,0,'Ampère',185
 18501,0,'Term Longueuil',185
@@ -150,7 +150,7 @@
 42101,0,'Term Longueuil',421
 42800,0,'Ag Spatiale Canadienne',428
 42801,0,'Term Longueuil',428
-44200,0,'Fredière',442
+44200,0,'La Fredière',442
 44201,0,'Term Longueuil',442
 46100,0,'Stat Touraine',461
 46101,0,'Term Radisson',461

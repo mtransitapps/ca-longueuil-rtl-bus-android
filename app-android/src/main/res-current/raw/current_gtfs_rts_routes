@@ -3,7 +3,7 @@
 4,'4','Taschereau / Payer / DIX30','D90B3E',52,700
 5,'5','Auteuil / Mtée St-Hubert / Maisonneuve','D90B3E',53,700
 6,'6','Victoria','D90B3E',54,700
-8,'8','Chambly / Cousineau / Promenades St-Bruno','D90B3E',56,700
+8,'8','Ch De Chambly / Cousineau / Promenades St-Bruno','D90B3E',56,700
 9,'9','Secteurs L-M St-Hubert','D90B3E',57,700
 10,'10','Roland-Therrien / Belcourt','D90B3E',1567,700
 13,'13','Riverside / Secteurs P-V Brossard','D90B3E',1570,700
@@ -13,18 +13,18 @@
 17,'17','Roland-Therrien / Roberval','D90B3E',1574,700
 19,'19','Davis','D90B3E',1576,700
 20,'20','Jean-Paul-Vincent / Beauharnois','D90B3E',1598,700
-21,'21','Grande-Allée / Quartier','D90B3E',1599,700
+21,'21','Grande-Allée / Du Quartier','D90B3E',1599,700
 22,'22','Gare Longueuil - St-Hubert / Sect B Vieux-Longueuil','D90B3E',1600,700
 23,'23','Ste-Hélène / Jacques-Cartier','D90B3E',1601,700
 25,'25','Parcs Industriels Vieux-Longueuil / Boucherville','D90B3E',1603,700
-28,'28','Chambly / Savane / ENA','D90B3E',1606,700
+28,'28','Ch De Chambly / Savane / ENA','D90B3E',1606,700
 29,'29','Collectivité Nouvelle','D90B3E',1607,700
 30,'30','Secteurs P-V Brossard','D90B3E',1629,700
 31,'31','Secteurs R-S-T Brossard / St-Laurent','D90B3E',1630,700
 32,'32','Secteur B Brossard / Mountainview','D90B3E',1631,700
 33,'33','Secteurs M-N-O Brossard','D90B3E',1632,700
 34,'34','Secteur A Brossard / Bellevue','D90B3E',1633,700
-37,'37','Simard / Béarn','D90B3E',1636,700
+37,'37','Simard / Du Béarn','D90B3E',1636,700
 38,'38','Chevrier / Secteur B Brossard','D90B3E',1637,700
 41,'41','Rome / Milan','D90B3E',1661,700
 42,'42','Gaétan-Boucher / Parc De La Cité','D90B3E',1662,700
@@ -40,21 +40,21 @@
 60,'60','Milan / Gaétan-Boucher / Promenades St-Bruno','D90B3E',1722,700
 61,'61','Boucherville / Terminus Radisson','D90B3E',1723,700
 71,'71','Curé-Poirier','D90B3E',1754,700
-73,'73','Joliette / Lyon','D90B3E',1756,700
+73,'73','Joliette / De Lyon','D90B3E',1756,700
 74,'74','St-Laurent / Secteur Bellerive','D90B3E',1757,700
 75,'75','Quinn / Brébeuf','D90B3E',1758,700
 76,'76','Roland-Therrien / Roberval','D90B3E',1759,700
 77,'77','Taschereau / Coteau-Rouge / Cégep É.-Montpetit','D90B3E',1760,700
-78,'78','Adoncour / Colisée','D90B3E',1761,700
-80,'80','Montarville / Carrefour De La Rive-Sud','D90B3E',1784,700
-81,'81','Fort-St-Louis / Marie-Victorin','D90B3E',1785,700
-82,'82','Marie-Victorin / Fort-St-Louis','D90B3E',1786,700
-83,'83','Montarville / Samuel-De Champlain','D90B3E',1787,700
-84,'84','Samuel-De Champlain / Montarville','D90B3E',1788,700
-85,'85','Îles-Percées / Mortagne / Gascogne','D90B3E',1789,700
-86,'86','Samuel-De Champlain / Montarville / TCV','D90B3E',1790,700
-87,'87','Marie-Victorin / Fort St-Louis / TCV','D90B3E',1791,700
-88,'88','Chambly / Mountainview','D90B3E',1792,700
+78,'78','Adoncour / Du Colisée','D90B3E',1761,700
+80,'80','De Montarville / Carrefour De La Rive-Sud','D90B3E',1784,700
+81,'81','Du Fort-St-Louis / Marie-Victorin','D90B3E',1785,700
+82,'82','Marie-Victorin / Du Fort-St-Louis','D90B3E',1786,700
+83,'83','De Montarville / Samuel-De Champlain','D90B3E',1787,700
+84,'84','Samuel-De Champlain / De Montarville','D90B3E',1788,700
+85,'85','Îles-Percées / De Mortagne / De Gascogne','D90B3E',1789,700
+86,'86','Samuel-De Champlain / De Montarville / TCV','D90B3E',1790,700
+87,'87','Marie-Victorin / Du Fort St-Louis / TCV','D90B3E',1791,700
+88,'88','Ch De Chambly / Mountainview','D90B3E',1792,700
 93,'93','Gare St-Bruno / Montarville / Y-Duckett','D90B3E',1818,700
 98,'98','Parc Industriel St-Bruno / Parent','D90B3E',1823,700
 99,'99','Promenades St-Bruno / St-Bruno-De-Montarville','D90B3E',1824,700
@@ -64,22 +64,22 @@
 128,'128','Zone Aéroportuaire / Parc Industriel St-Bruno','D90B3E',48695,700
 132,'132','DIX30 / Parc De La Cité / Mountainview','D90B3E',48720,700
 160,'160','Milan / Gaétan-Boucher / Centre-Ville St-Bruno','D90B3E',48811,700
-161,'161','R-Therrien / J-Cartier / Montarville','D90B3E',48812,700
+161,'161','R-Therrien / J-Cartier / De Montarville','D90B3E',48812,700
 170,'170','Station Papineau / Ste-Hélène / J-Cartier','D90B3E',48842,700
-180,'180','Montarville / Sureaux','D90B3E',48873,700
+180,'180','De Montarville / Des Sureaux','D90B3E',48873,700
 185,'185','Ampère / Gay-Lussac','D90B3E',48878,700
 192,'192','Terminus Brossard / Montarville / Y-Duckett','D90B3E',48906,700
 199,'199','Seigneurial / Grand Boulevard','D90B3E',48913,700
-214,'214','Station Brossard / Rome / St-Laurent','D90B3E',49621,700
+214,'214','Station Brossard / De Rome / St-Laurent','D90B3E',49621,700
 284,'284','Navette Boucherville','D90B3E',49838,700
 410,'410','Express Roland-Therrien / Belcourt','D90B3E',51539,700
 417,'417','Express Roland-Therrien / Roberval','D90B3E',51546,700
 421,'421','Grande-Allée / A-Frappier','D90B3E',51571,700
 428,'428','Zone Aéroportuaire / Agence Spatiale Canadienne','D90B3E',51578,700
 442,'442','Cousineau / Pacific','D90B3E',51634,700
-461,'461','Express De Touraine / Montarville / Radisson','D90B3E',51695,700
+461,'461','Express De Touraine / De Montarville / Radisson','D90B3E',51695,700
 462,'462','Touraine-Mortagne-Radisson-HMR-Inst.Cardio','D90B3E',51696,700
-500,'500','École St-Lambert International High School','D90B3E',52469,700
+500,'500','École Saint-Lambert International High School','D90B3E',52469,700
 501,'501','Écoles Privées','D90B3E',52470,700
 503,'503','École Centennial Regional High School','D90B3E',52472,700
 505,'505','École Centennial Regional High School','D90B3E',52474,700
@@ -103,11 +103,11 @@
 550,'550','École Centennial Regional High School','D90B3E',52624,700
 551,'551','École Centennial Regional High School','D90B3E',52625,700
 554,'554','Écoles Privées','D90B3E',52628,700
-565,'565','École St-Lambert International High School','D90B3E',52660,700
-570,'570','École St-Lambert International High School','D90B3E',52686,700
-572,'572','École St-Lambert International High School','D90B3E',52688,700
-575,'575','École St-Lambert International High School','D90B3E',52691,700
-580,'580','École St-Lambert International High School','D90B3E',52717,700
+565,'565','École Saint-Lambert International High School','D90B3E',52660,700
+570,'570','École Saint-Lambert International High School','D90B3E',52686,700
+572,'572','École Saint-Lambert International High School','D90B3E',52688,700
+575,'575','École Saint-Lambert International High School','D90B3E',52691,700
+580,'580','École Saint-Lambert International High School','D90B3E',52717,700
 600,'600','Écoles Privées','D90B3E',53430,700
 601,'601','École De L''Agora','D90B3E',53431,700
 605,'605','École De L''Agora','D90B3E',53435,700
@@ -148,7 +148,7 @@
 695,'695','École Lucille-Teasdale','D90B3E',53714,700
 696,'696','École Lucille-Teasdale','D90B3E',53715,700
 697,'697','École Lucille-Teasdale','D90B3E',53716,700
-720,'720','Brossard / Quartier / Panama / Île-Des-Soeurs','72A300',54453,700
-721,'721','Brossard / Quartier / Gare Centrale','72A300',54454,700
+720,'720','Brossard / Du Quartier / Panama / Île-Des-Soeurs','72A300',54453,700
+721,'721','Brossard / Du Quartier / Gare Centrale','72A300',54454,700
 722,'722','Panama / Terminus Centre-Ville','72A300',54455,700
 848,'T48','Taxi Collectif - Brossard M-Victorin / St-Laurent','D90B3E',55484,1501
