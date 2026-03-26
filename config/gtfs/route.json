@@ -27,7 +27,7 @@
     {
       "regex": "(sect(\\.)?(\\s+))",
       "ignore_case": true,
-      "replacement": "S:$3"
+      "replacement": "S:"
     }
   ],
   "stop_name_cleaners": [
