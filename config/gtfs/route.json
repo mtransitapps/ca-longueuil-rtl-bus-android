@@ -23,6 +23,11 @@
       "regex": "(([E|É]NA - )?([E|É]cole nationale d\\'a[é|e]rotechnique))",
       "ignore_case": true,
       "replacement": "ÉNA"
+    },
+    {
+      "regex": "(sect(\\.)?(\\s+))"
+      "ignore_case": true,
+      "replacement": "S:$2$3"
     }
   ],
   "stop_name_cleaners": [
