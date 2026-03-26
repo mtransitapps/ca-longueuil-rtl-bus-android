@@ -25,9 +25,9 @@
       "replacement": "ÉNA"
     },
     {
-      "regex": "(sect(\\.)?(\\s+))"
+      "regex": "(sect(\\.)?(\\s+))",
       "ignore_case": true,
-      "replacement": "S:$2$3"
+      "replacement": "S:$3"
     }
   ],
   "stop_name_cleaners": [
