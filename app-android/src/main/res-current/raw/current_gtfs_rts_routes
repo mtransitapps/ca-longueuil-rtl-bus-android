@@ -13,7 +13,7 @@
 17,'17','Roland-Therrien / Roberval','D90B3E',1574,700
 19,'19','Davis','D90B3E',1576,700
 20,'20','Jean-Paul-Vincent / Beauharnois','D90B3E',1598,700
-21,'21','Grande-Allée / Du Quartier','D90B3E',1599,700
+21,'21','Grande Allée / Du Quartier','D90B3E',1599,700
 22,'22','Gare Longueuil - St-Hubert / Sect B Vieux-Longueuil','D90B3E',1600,700
 23,'23','Ste-Hélène / Jacques-Cartier','D90B3E',1601,700
 25,'25','Parcs Inds Vieux-Longueuil / Boucherville','D90B3E',1603,700
@@ -53,7 +53,6 @@
 84,'84','Samuel-De Champlain / Montarville','D90B3E',1788,700
 85,'85','Îles-Percées / Mortagne / Gascogne','D90B3E',1789,700
 86,'86','Samuel-De Champlain / Montarville / TCV','D90B3E',1790,700
-87,'87','Marie-Victorin / Fort St-Louis / TCV','D90B3E',1791,700
 88,'88','Ch De Chambly / Mountainview','D90B3E',1792,700
 93,'93','Gare St-Bruno / Montarville / Y-Duckett','D90B3E',1818,700
 98,'98','Parc Industriel St-Bruno / Parent','D90B3E',1823,700
@@ -68,7 +67,6 @@
 170,'170','Ston Papineau / Ste-Hélène / J-Cartier','D90B3E',48842,700
 180,'180','De Montarville / Des Sureaux','D90B3E',48873,700
 185,'185','Ampère / Gay-Lussac','D90B3E',48878,700
-192,'192','Term Brossard / Montarville / Y-Duckett','D90B3E',48906,700
 199,'199','Seigneurial / Grand Boulevard','D90B3E',48913,700
 214,'214','Ston Brossard / Rome / St-Laurent','D90B3E',49621,700
 284,'284','Navette Boucherville','D90B3E',49838,700
@@ -150,5 +148,5 @@
 697,'697','École Lucille-Teasdale','D90B3E',53716,700
 720,'720','Brossard / Quartier / Panama / Île-Des-Soeurs','72A300',54453,700
 721,'721','Brossard / Quartier / Gare Centrale','72A300',54454,700
-722,'722','Panama / Terminus Centre-Ville','72A300',54455,700
+722,'722','Panama / Gare Centrale','72A300',54455,700
 848,'T48','Taxi Collectif - Brossard M-Victorin / St-Laurent','D90B3E',55484,1501

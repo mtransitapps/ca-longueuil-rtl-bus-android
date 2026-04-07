@@ -10,7 +10,7 @@
 600,0,'Term Panama',6
 800,0,'Promenades St-Bruno',8
 801,0,'Term Longueuil',8
-900,0,'Martineau / Chambly',9
+900,0,'Martineau/Chambly',9
 901,0,'Term Longueuil',9
 1000,0,'S:B Vieux-Longueuil',10
 1001,0,'Term Longueuil',10
@@ -24,7 +24,7 @@
 1601,0,'Term Longueuil',16
 1700,0,'S:M Vieux-Longueuil',17
 1701,0,'Term Longueuil',17
-1900,0,'Prince-Charles / Davis',19
+1900,0,'Prince-Charles/Davis',19
 1901,0,'Term Longueuil',19
 2000,0,'S:B Vieux-Longueuil',20
 2001,0,'Term Longueuil',20
@@ -41,7 +41,7 @@
 2900,0,'De L''Église',29
 2901,0,'Term Longueuil',29
 3001,0,'Term Panama',30
-3100,0,'Rome / St-Laurent',31
+3100,0,'Rome/St-Laurent',31
 3101,0,'Term Panama',31
 3200,0,'Pacific',32
 3201,0,'Term Brossard',32
@@ -69,7 +69,7 @@
 5001,0,'Term Panama',50
 5401,0,'Term Longueuil',54
 5400,0,'Term Panama',54
-5500,0,'Riverside / Rhône',55
+5500,0,'Riverside/Rhône',55
 5501,0,'Term Ctr-Ville',55
 5900,0,'Gareau',59
 5901,0,'Term Panama',59
@@ -83,13 +83,13 @@
 7301,0,'Term Longueuil',73
 7400,0,'S:Bellerive',74
 7401,0,'Term Longueuil',74
-7500,0,'Maréchal / Chatham',75
+7500,0,'Maréchal/Chatham',75
 7501,0,'Term Longueuil',75
 7600,0,'S:B Vieux-Longueuil',76
 7601,0,'Term Longueuil',76
 7700,0,'CÉGEP Édouard-Montpetit',77
 7701,0,'Parc Ind Brossard',77
-7800,0,'Curé-Poirier E / Jacques-Cartier E',78
+7800,0,'Curé-Poirier E/Jacques-Cartier E',78
 7801,0,'Term Longueuil',78
 8000,0,'582 Carref Rive-S',80
 8001,0,'Term Longueuil',80
@@ -105,8 +105,6 @@
 8501,0,'Term Longueuil',85
 8600,0,'Montarville',86
 8601,0,'Term Ctr-Ville',86
-8700,0,'Fort-St-Louis',87
-8701,0,'Term Ctr-Ville',87
 8800,0,'Mountainview',88
 8801,0,'Term Longueuil',88
 9301,0,'Gare St-Bruno',93
@@ -118,7 +116,7 @@
 12000,0,'Stat Mortagne',120
 12001,0,'Term Longueuil',120
 12301,0,'Term Longueuil',123
-12300,0,'Église / Église',123
+12300,0,'Église/Église',123
 12500,0,'RTL',125
 12501,0,'Term Longueuil',125
 12800,0,'Parent',128
@@ -135,12 +133,10 @@
 18001,0,'Term Longueuil',180
 18500,0,'Ampère',185
 18501,0,'Term Longueuil',185
-19200,0,'Stat Seigneurial',192
-19201,0,'Term Brossard',192
 19900,0,'St-Bruno',199
 19901,0,'Term Longueuil',199
 21401,0,'DIX30',214
-21400,0,'Rome / St-Laurent',214
+21400,0,'Rome/St-Laurent',214
 28401,0,'Ctr Multi F-Gadbois',284
 41000,0,'S:B Vieux-Longueuil',410
 41001,0,'Term Longueuil',410
@@ -159,12 +155,12 @@
 50000,0,'Domicile',500
 50001,0,'École St-Lambert Inter',500
 50100,0,'Domicile',501
-50101,0,'Pav Durocher / St-Lambert',501
+50101,0,'Pav Durocher/St-Lambert',501
 50300,0,'Domicile',503
 50301,0,'École Centennial',503
 50500,0,'Domicile',505
 50501,0,'École Centennial',505
-50600,0,'Pav Durocher / St-Lambert',506
+50600,0,'Pav Durocher/St-Lambert',506
 50601,0,'Term Longueuil',506
 52100,0,'Domicile',521
 52101,0,'École Centennial',521
@@ -213,7 +209,7 @@
 57500,0,'Domicile',575
 57501,0,'École St-Lambert Inter',575
 58000,0,'Domicile',580
-60001,0,'Collèges NDL / Durocher',600
+60001,0,'Collèges NDL/Durocher',600
 60100,0,'Domicile',601
 60101,0,'École Agora',601
 60500,0,'Domicile',605
@@ -224,11 +220,11 @@
 60801,0,'Term Longueuil',608
 60900,0,'Term Panama',609
 60901,0,'École Agora',609
-61301,0,'Collèges NDL / Durocher',613
+61301,0,'Collèges NDL/Durocher',613
 61300,0,'Domicile',613
 61400,0,'Domicile',614
 61600,0,'Domicile',616
-61801,0,'Pav Durocher / St-Lambert',618
+61801,0,'Pav Durocher/St-Lambert',618
 62000,0,'Domicile',620
 62400,0,'Domicile',624
 64000,0,'Domicile',640
@@ -289,7 +285,7 @@
 72000,0,'Term Brossard',720
 72101,0,'800 Gauchetière O',721
 72100,0,'Term Brossard',721
-72201,0,'Term Ctr-Ville',722
+72201,0,'800 Gauchetière O',722
 72200,0,'Term Panama',722
 84800,0,'Marie-Victorin',848
 84801,0,'Term Panama',848
