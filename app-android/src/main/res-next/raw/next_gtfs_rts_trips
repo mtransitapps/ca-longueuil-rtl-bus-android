@@ -248,8 +248,8 @@
 67501,0,'École Jacques-Rousseau',675
 67600,0,'Domicile',676
 67601,0,'École Jacques-Rousseau',676
-67701,0,'AM',677
-67700,0,'PM',677
+67700,0,'Domicile',677
+67701,0,'École Gérard-Filion',677
 67800,0,'Domicile',678
 67801,0,'École Jacques-Rousseau',678
 68301,0,'CÉGEP Édouard-Montpetit',683
@@ -274,5 +274,5 @@
 69601,0,'École Lucille-Teasdale',696
 69700,0,'Domicile',697
 69701,0,'École Lucille-Teasdale',697
-90100,0,'Term George-Gagné',901
+90100,0,'Term Georges-Gagné',901
 90101,0,'Term Longueuil',901
